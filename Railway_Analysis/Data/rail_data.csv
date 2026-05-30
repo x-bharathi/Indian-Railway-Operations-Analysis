@@ -1,0 +1,1001 @@
+journey_id,train_no,train_name,source_station,destination_station,zone,distance_km,journey_date,year,month,season,scheduled_arrival,actual_arrival,delay_mins,delay_category,delay_reason,platform_no,passengers_count,train_type
+JRN1000,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2022-09-10,2022,September,Monsoon,10:15,12:14,119,Major Delay,Landslide near track,8,783,Superfast
+JRN1001,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-01-12,2022,January,Winter,04:30,04:39,9,Minor Delay,Late running due to fog,1,777,Express
+JRN1002,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-05-14,2022,May,Summer,15:45,17:28,103,Major Delay,Congestion at junction,4,868,Superfast
+JRN1003,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2022-07-15,2022,July,Monsoon,09:15,11:53,158,Severe Delay,Signal failure due to rain,8,698,Superfast
+JRN1004,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2023-01-14,2023,January,Winter,23:15,00:05,50,Moderate Delay,Track inspection,6,612,Express
+JRN1005,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2022-01-17,2022,January,Winter,20:15,21:08,53,Moderate Delay,Cold wave speed restriction,6,566,Superfast
+JRN1006,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2022-01-19,2022,January,Winter,11:00,11:33,33,Moderate Delay,Late running due to fog,7,533,Express
+JRN1007,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-10-27,2024,October,Winter,20:30,21:41,71,Major Delay,Dense fog signal restriction,4,811,Superfast
+JRN1008,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2024-06-01,2024,June,Monsoon,22:15,00:13,118,Major Delay,Heavy rainfall on track,1,679,Superfast
+JRN1009,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2022-05-15,2022,May,Summer,09:45,10:19,34,Moderate Delay,Track maintenance,5,675,Express
+JRN1010,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-09-02,2023,September,Monsoon,23:30,23:30,0,On Time,No Delay,1,580,Express
+JRN1011,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2022-02-28,2022,February,Winter,22:15,23:39,84,Major Delay,Late running due to fog,2,745,Express
+JRN1012,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2024-08-26,2024,August,Monsoon,13:30,15:57,147,Severe Delay,Landslide near track,3,855,Mail
+JRN1013,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2023-11-20,2023,November,Winter,08:30,08:30,0,On Time,No Delay,5,717,Superfast
+JRN1014,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2023-11-20,2023,November,Winter,22:30,23:29,59,Moderate Delay,Dense fog signal restriction,5,906,Superfast
+JRN1015,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2022-07-12,2022,July,Monsoon,05:30,06:38,68,Major Delay,Signal failure due to rain,5,575,Superfast
+JRN1016,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2023-09-13,2023,September,Monsoon,04:00,06:53,173,Severe Delay,Landslide near track,2,675,Express
+JRN1017,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2023-01-17,2023,January,Winter,15:15,15:36,21,Minor Delay,Track inspection,6,915,Superfast
+JRN1018,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-08-22,2024,August,Monsoon,20:45,22:12,87,Major Delay,Track waterlogging,5,565,Express
+JRN1019,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2024-01-22,2024,January,Winter,23:00,23:09,9,Minor Delay,Late running due to fog,7,675,Express
+JRN1020,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2023-05-16,2023,May,Summer,11:30,12:19,49,Moderate Delay,Track maintenance,2,585,Superfast
+JRN1021,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2023-08-14,2023,August,Monsoon,04:30,06:08,98,Major Delay,Heavy rainfall on track,7,706,Express
+JRN1022,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2022-03-01,2022,March,Summer,19:15,19:44,29,Minor Delay,Engine technical issue,4,604,Express
+JRN1023,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2024-02-13,2024,February,Winter,14:15,14:36,21,Minor Delay,Technical snag,2,585,Superfast
+JRN1024,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2023-05-24,2023,May,Summer,12:15,12:15,0,On Time,No Delay,5,755,Superfast
+JRN1025,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-09-09,2022,September,Monsoon,22:45,23:14,29,Minor Delay,Flood affected route,7,708,Superfast
+JRN1026,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2023-09-19,2023,September,Monsoon,19:00,20:51,111,Major Delay,Track waterlogging,5,840,Superfast
+JRN1027,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2023-11-09,2023,November,Winter,14:00,14:32,32,Moderate Delay,Technical snag,5,641,Superfast
+JRN1028,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2024-11-20,2024,November,Winter,05:30,06:30,60,Moderate Delay,Technical snag,4,877,Superfast
+JRN1029,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2022-09-07,2022,September,Monsoon,05:00,05:00,0,On Time,No Delay,8,620,Express
+JRN1030,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-05-03,2023,May,Summer,16:45,17:11,26,Minor Delay,Engine technical issue,5,651,Express
+JRN1031,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2024-06-07,2024,June,Monsoon,04:30,04:30,0,On Time,No Delay,4,651,Superfast
+JRN1032,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-10-28,2023,October,Winter,06:30,07:07,37,Moderate Delay,Dense fog signal restriction,8,830,Superfast
+JRN1033,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-09-06,2022,September,Monsoon,05:30,06:38,68,Major Delay,Flood affected route,6,774,Superfast
+JRN1034,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2022-08-05,2022,August,Monsoon,15:45,17:51,126,Severe Delay,Heavy rainfall on track,3,670,Superfast
+JRN1035,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2023-11-17,2023,November,Winter,11:00,12:03,63,Major Delay,Cold wave speed restriction,3,830,Superfast
+JRN1036,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2022-11-19,2022,November,Winter,09:30,09:30,0,On Time,No Delay,3,868,Superfast
+JRN1037,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2023-09-05,2023,September,Monsoon,05:15,07:21,126,Severe Delay,Signal failure due to rain,2,877,Superfast
+JRN1038,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2022-06-07,2022,June,Monsoon,07:30,07:58,28,Minor Delay,Signal failure due to rain,2,575,Superfast
+JRN1039,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-12-25,2022,December,Winter,05:30,06:16,46,Moderate Delay,Cold wave speed restriction,2,761,Express
+JRN1040,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-01-23,2024,January,Winter,06:15,06:33,18,Minor Delay,Dense fog signal restriction,7,698,Superfast
+JRN1041,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2022-07-28,2022,July,Monsoon,09:45,10:23,38,Moderate Delay,Flood affected route,8,620,Express
+JRN1042,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-11-06,2022,November,Winter,04:30,04:49,19,Minor Delay,Dense fog signal restriction,7,868,Superfast
+JRN1043,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2024-07-16,2024,July,Monsoon,08:30,08:30,0,On Time,No Delay,2,679,Superfast
+JRN1044,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2023-12-24,2023,December,Winter,20:30,20:30,0,On Time,No Delay,4,525,Express
+JRN1045,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2024-05-01,2024,May,Summer,09:30,09:38,8,Minor Delay,Congestion at junction,4,679,Superfast
+JRN1046,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2024-06-10,2024,June,Monsoon,17:30,19:27,117,Major Delay,Track waterlogging,6,792,Superfast
+JRN1047,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2024-12-20,2024,December,Winter,17:00,17:00,0,On Time,No Delay,5,628,Express
+JRN1048,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2023-07-03,2023,July,Monsoon,11:30,13:13,103,Major Delay,Heavy rainfall on track,1,736,Superfast
+JRN1049,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-08-04,2024,August,Monsoon,07:45,09:54,129,Severe Delay,Heavy rainfall on track,4,698,Superfast
+JRN1050,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2022-12-12,2022,December,Winter,17:45,18:12,27,Minor Delay,Track inspection,1,659,Express
+JRN1051,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2023-01-02,2023,January,Winter,16:30,16:54,24,Minor Delay,Track inspection,1,525,Express
+JRN1052,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2024-12-03,2024,December,Winter,19:30,19:30,0,On Time,No Delay,1,859,Superfast
+JRN1053,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2024-01-05,2024,January,Winter,09:45,11:08,83,Major Delay,Technical snag,1,887,Superfast
+JRN1054,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-03-02,2022,March,Summer,11:45,13:01,76,Major Delay,Congestion at junction,7,596,Express
+JRN1055,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2024-04-17,2024,April,Summer,20:00,21:19,79,Major Delay,Congestion at junction,7,783,Superfast
+JRN1056,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2024-07-24,2024,July,Monsoon,10:15,10:15,0,On Time,No Delay,4,628,Express
+JRN1057,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-07-22,2024,July,Monsoon,12:30,15:37,187,Severe Delay,Flood affected route,2,580,Express
+JRN1058,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2023-07-05,2023,July,Monsoon,13:15,14:28,73,Major Delay,Signal failure due to rain,3,594,Superfast
+JRN1059,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2022-02-06,2022,February,Winter,18:45,19:20,35,Moderate Delay,Technical snag,4,717,Superfast
+JRN1060,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2023-07-06,2023,July,Monsoon,07:15,08:01,46,Moderate Delay,Flood affected route,6,651,Superfast
+JRN1061,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2024-05-21,2024,May,Summer,23:00,23:26,26,Minor Delay,Track maintenance,2,745,Superfast
+JRN1062,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2022-10-08,2022,October,Winter,14:15,14:21,6,Minor Delay,Cold wave speed restriction,6,785,Express
+JRN1063,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2024-06-16,2024,June,Monsoon,22:45,01:16,151,Severe Delay,Flood affected route,4,594,Superfast
+JRN1064,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-08-23,2022,August,Monsoon,23:30,00:30,60,Moderate Delay,Flood affected route,3,785,Express
+JRN1065,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2024-09-14,2024,September,Monsoon,20:00,22:11,131,Severe Delay,Heavy rainfall on track,8,717,Superfast
+JRN1066,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2023-01-17,2023,January,Winter,20:15,20:15,0,On Time,No Delay,6,925,Superfast
+JRN1067,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-02-17,2023,February,Winter,21:45,22:02,17,Minor Delay,Technical snag,4,811,Superfast
+JRN1068,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2022-02-23,2022,February,Winter,11:15,11:15,0,On Time,No Delay,5,660,Superfast
+JRN1069,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2023-09-27,2023,September,Monsoon,15:30,18:42,192,Severe Delay,Flood affected route,6,612,Express
+JRN1070,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2024-11-22,2024,November,Winter,19:30,20:07,37,Moderate Delay,Cold wave speed restriction,4,934,Superfast
+JRN1071,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2022-02-24,2022,February,Winter,07:30,07:57,27,Minor Delay,Track inspection,3,821,Superfast
+JRN1072,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2024-11-09,2024,November,Winter,05:30,05:49,19,Minor Delay,Cold wave speed restriction,1,811,Superfast
+JRN1073,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2024-12-03,2024,December,Winter,19:00,19:33,33,Moderate Delay,Late running due to fog,7,877,Superfast
+JRN1074,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2022-06-01,2022,June,Monsoon,09:30,12:25,175,Severe Delay,Flood affected route,5,906,Superfast
+JRN1075,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2023-09-02,2023,September,Monsoon,19:30,21:17,107,Major Delay,Signal failure due to rain,5,877,Superfast
+JRN1076,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2022-09-13,2022,September,Monsoon,04:45,06:59,134,Severe Delay,Landslide near track,8,877,Superfast
+JRN1077,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-05-02,2023,May,Summer,11:15,11:40,25,Minor Delay,Engine technical issue,3,906,Superfast
+JRN1078,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2022-12-09,2022,December,Winter,16:15,16:58,43,Moderate Delay,Late running due to fog,2,486,Express
+JRN1079,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2023-05-12,2023,May,Summer,06:30,07:12,42,Moderate Delay,Late running connecting train,8,785,Express
+JRN1080,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2024-05-25,2024,May,Summer,17:00,17:00,0,On Time,No Delay,4,726,Superfast
+JRN1081,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2023-11-24,2023,November,Winter,13:30,13:34,4,Minor Delay,Technical snag,2,896,Superfast
+JRN1082,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2022-10-07,2022,October,Winter,12:45,12:45,0,On Time,No Delay,3,811,Superfast
+JRN1083,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-07-02,2022,July,Monsoon,05:15,07:24,129,Severe Delay,Landslide near track,2,612,Express
+JRN1084,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2022-10-25,2022,October,Winter,09:00,10:10,70,Major Delay,Dense fog signal restriction,5,915,Superfast
+JRN1085,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2024-01-18,2024,January,Winter,15:15,16:00,45,Moderate Delay,Dense fog signal restriction,6,632,Superfast
+JRN1086,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-07-27,2022,July,Monsoon,16:15,16:15,0,On Time,No Delay,6,635,Express
+JRN1087,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2024-06-02,2024,June,Monsoon,21:15,23:31,136,Severe Delay,Flood affected route,3,708,Superfast
+JRN1088,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2023-04-11,2023,April,Summer,05:15,05:15,0,On Time,No Delay,7,944,Superfast
+JRN1089,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2024-03-23,2024,March,Summer,16:45,16:45,0,On Time,No Delay,3,698,Express
+JRN1090,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2022-03-06,2022,March,Summer,16:30,17:33,63,Major Delay,Late running connecting train,6,906,Superfast
+JRN1091,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2024-05-22,2024,May,Summer,16:15,17:32,77,Major Delay,Signal failure,1,641,Superfast
+JRN1092,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2023-01-27,2023,January,Winter,12:30,12:30,0,On Time,No Delay,2,651,Superfast
+JRN1093,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2024-09-19,2024,September,Monsoon,19:15,21:59,164,Severe Delay,Signal failure due to rain,7,651,Express
+JRN1094,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-09-11,2022,September,Monsoon,04:15,04:49,34,Moderate Delay,Track waterlogging,5,717,Superfast
+JRN1095,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2024-08-15,2024,August,Monsoon,10:00,11:20,80,Major Delay,Flood affected route,5,732,Mail
+JRN1096,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2023-10-23,2023,October,Winter,18:15,19:11,56,Moderate Delay,Late running due to fog,7,533,Express
+JRN1097,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-04-06,2022,April,Summer,16:30,16:30,0,On Time,No Delay,4,722,Mail
+JRN1098,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2022-02-26,2022,February,Winter,05:15,05:47,32,Moderate Delay,Track inspection,8,651,Express
+JRN1099,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-03-05,2022,March,Summer,19:30,21:10,100,Major Delay,Signal failure,2,830,Superfast
+JRN1100,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2023-11-01,2023,November,Winter,13:45,14:12,27,Minor Delay,Track inspection,4,755,Superfast
+JRN1101,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2023-02-28,2023,February,Winter,23:30,00:53,83,Major Delay,Late running due to fog,4,667,Express
+JRN1102,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-11-07,2022,November,Winter,15:30,16:23,53,Moderate Delay,Cold wave speed restriction,6,855,Mail
+JRN1103,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-03-01,2024,March,Summer,15:00,15:00,0,On Time,No Delay,6,783,Superfast
+JRN1104,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2022-11-13,2022,November,Winter,11:45,11:45,0,On Time,No Delay,6,632,Superfast
+JRN1105,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2022-01-25,2022,January,Winter,20:30,20:30,0,On Time,No Delay,3,726,Superfast
+JRN1106,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2024-08-14,2024,August,Monsoon,10:15,12:47,152,Severe Delay,Flood affected route,3,777,Express
+JRN1107,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2022-02-03,2022,February,Winter,23:30,23:49,19,Minor Delay,Late running due to fog,7,478,Express
+JRN1108,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2023-04-05,2023,April,Summer,05:15,06:21,66,Major Delay,Engine technical issue,4,682,Express
+JRN1109,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2023-12-17,2023,December,Winter,10:30,11:06,36,Moderate Delay,Cold wave speed restriction,4,706,Express
+JRN1110,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2022-02-19,2022,February,Winter,05:30,05:30,0,On Time,No Delay,1,821,Superfast
+JRN1111,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2024-08-04,2024,August,Monsoon,22:30,00:14,104,Major Delay,Flood affected route,5,670,Superfast
+JRN1112,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2022-07-09,2022,July,Monsoon,06:45,08:15,90,Major Delay,Landslide near track,1,518,Express
+JRN1113,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2023-05-21,2023,May,Summer,09:15,09:47,32,Moderate Delay,Late running connecting train,2,859,Superfast
+JRN1114,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2023-10-08,2023,October,Winter,23:15,23:15,0,On Time,No Delay,2,575,Superfast
+JRN1115,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2023-11-12,2023,November,Winter,04:00,04:51,51,Moderate Delay,Dense fog signal restriction,2,510,Express
+JRN1116,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2023-12-18,2023,December,Winter,08:30,09:04,34,Moderate Delay,Technical snag,4,698,Superfast
+JRN1117,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2023-04-23,2023,April,Summer,11:00,11:11,11,Minor Delay,Track maintenance,8,830,Superfast
+JRN1118,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2022-04-20,2022,April,Summer,18:30,18:30,0,On Time,No Delay,2,887,Superfast
+JRN1119,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-12-12,2022,December,Winter,06:45,06:45,0,On Time,No Delay,4,566,Superfast
+JRN1120,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-05-01,2024,May,Summer,10:30,11:01,31,Moderate Delay,Engine technical issue,7,774,Superfast
+JRN1121,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2024-05-22,2024,May,Summer,15:30,15:30,0,On Time,No Delay,8,641,Superfast
+JRN1122,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2022-07-21,2022,July,Monsoon,05:45,05:45,0,On Time,No Delay,1,502,Express
+JRN1123,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2023-12-03,2023,December,Winter,09:15,09:21,6,Minor Delay,Track inspection,3,596,Express
+JRN1124,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2023-08-21,2023,August,Monsoon,10:45,11:23,38,Moderate Delay,Flood affected route,5,925,Superfast
+JRN1125,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-07-10,2024,July,Monsoon,22:00,23:18,78,Major Delay,Signal failure due to rain,2,628,Express
+JRN1126,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-11-02,2023,November,Winter,09:15,09:41,26,Minor Delay,Technical snag,7,679,Superfast
+JRN1127,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2023-03-01,2023,March,Summer,19:30,20:17,47,Moderate Delay,Late running connecting train,6,675,Express
+JRN1128,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2023-05-22,2023,May,Summer,16:45,17:51,66,Major Delay,Congestion at junction,7,859,Superfast
+JRN1129,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2023-05-14,2023,May,Summer,06:30,06:36,6,Minor Delay,Track maintenance,8,769,Express
+JRN1130,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-07-14,2022,July,Monsoon,17:30,19:09,99,Major Delay,Flood affected route,3,708,Superfast
+JRN1131,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2024-10-01,2024,October,Winter,09:30,10:54,84,Major Delay,Dense fog signal restriction,5,730,Express
+JRN1132,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2023-09-25,2023,September,Monsoon,18:00,19:34,94,Major Delay,Signal failure due to rain,1,679,Superfast
+JRN1133,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2024-08-01,2024,August,Monsoon,10:00,11:27,87,Major Delay,Flood affected route,4,821,Superfast
+JRN1134,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2022-04-20,2022,April,Summer,14:45,15:50,65,Major Delay,Signal failure,5,679,Superfast
+JRN1135,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-08-28,2024,August,Monsoon,21:15,23:39,144,Severe Delay,Landslide near track,3,840,Superfast
+JRN1136,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2023-10-28,2023,October,Winter,15:00,15:59,59,Moderate Delay,Late running due to fog,3,753,Express
+JRN1137,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2024-02-14,2024,February,Winter,20:45,21:36,51,Moderate Delay,Track inspection,2,502,Express
+JRN1138,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2023-04-17,2023,April,Summer,07:45,08:32,47,Moderate Delay,Signal failure,6,565,Express
+JRN1139,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2023-03-12,2023,March,Summer,22:30,22:43,13,Minor Delay,Congestion at junction,2,745,Superfast
+JRN1140,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2022-07-01,2022,July,Monsoon,18:30,18:30,0,On Time,No Delay,1,708,Superfast
+JRN1141,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2022-08-16,2022,August,Monsoon,06:30,09:09,159,Severe Delay,Track waterlogging,3,533,Express
+JRN1142,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2024-10-11,2024,October,Winter,15:00,15:00,0,On Time,No Delay,1,684,Mail
+JRN1143,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2022-04-21,2022,April,Summer,16:15,16:15,0,On Time,No Delay,3,675,Mail
+JRN1144,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-06-13,2024,June,Monsoon,08:15,09:49,94,Major Delay,Heavy rainfall on track,3,717,Superfast
+JRN1145,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2024-02-27,2024,February,Winter,16:30,16:40,10,Minor Delay,Technical snag,6,659,Express
+JRN1146,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2024-06-26,2024,June,Monsoon,18:30,19:42,72,Major Delay,Track waterlogging,7,714,Express
+JRN1147,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2023-10-23,2023,October,Winter,22:15,23:23,68,Major Delay,Dense fog signal restriction,1,859,Superfast
+JRN1148,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2023-11-12,2023,November,Winter,23:15,23:15,0,On Time,No Delay,7,502,Express
+JRN1149,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2024-06-22,2024,June,Monsoon,11:00,14:08,188,Severe Delay,Heavy rainfall on track,8,643,Express
+JRN1150,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2022-02-06,2022,February,Winter,12:15,12:15,0,On Time,No Delay,2,840,Superfast
+JRN1151,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2023-05-26,2023,May,Summer,14:30,16:05,95,Major Delay,Late running connecting train,1,670,Superfast
+JRN1152,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2024-05-16,2024,May,Summer,08:15,08:29,14,Minor Delay,Congestion at junction,8,604,Express
+JRN1153,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-07-16,2022,July,Monsoon,05:45,06:05,20,Minor Delay,Signal failure due to rain,7,944,Superfast
+JRN1154,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2023-09-27,2023,September,Monsoon,10:15,10:47,32,Moderate Delay,Signal failure due to rain,2,877,Superfast
+JRN1155,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2023-05-23,2023,May,Summer,08:15,08:15,0,On Time,No Delay,3,802,Superfast
+JRN1156,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2022-05-06,2022,May,Summer,11:45,11:53,8,Minor Delay,Engine technical issue,2,785,Express
+JRN1157,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2022-08-17,2022,August,Monsoon,14:45,16:38,113,Major Delay,Heavy rainfall on track,1,478,Express
+JRN1158,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2022-08-11,2022,August,Monsoon,20:00,20:00,0,On Time,No Delay,3,641,Superfast
+JRN1159,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2022-07-01,2022,July,Monsoon,09:15,10:52,97,Major Delay,Track waterlogging,4,783,Superfast
+JRN1160,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2022-07-16,2022,July,Monsoon,13:15,16:20,185,Severe Delay,Heavy rainfall on track,4,525,Express
+JRN1161,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-07-16,2022,July,Monsoon,10:30,11:39,69,Major Delay,Signal failure due to rain,2,588,Express
+JRN1162,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2023-10-24,2023,October,Winter,11:00,11:30,30,Minor Delay,Track inspection,2,541,Express
+JRN1163,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2022-07-03,2022,July,Monsoon,10:30,11:54,84,Major Delay,Signal failure due to rain,4,849,Superfast
+JRN1164,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2023-11-23,2023,November,Winter,12:30,13:41,71,Major Delay,Cold wave speed restriction,7,761,Express
+JRN1165,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2023-11-05,2023,November,Winter,11:00,11:16,16,Minor Delay,Technical snag,8,698,Superfast
+JRN1166,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2023-10-04,2023,October,Winter,08:45,08:45,0,On Time,No Delay,3,604,Express
+JRN1167,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2022-03-24,2022,March,Summer,08:15,08:15,0,On Time,No Delay,8,708,Superfast
+JRN1168,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2023-05-08,2023,May,Summer,21:15,22:33,78,Major Delay,Congestion at junction,4,689,Superfast
+JRN1169,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2024-07-10,2024,July,Monsoon,09:45,11:31,106,Major Delay,Heavy rainfall on track,8,769,Express
+JRN1170,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2023-03-02,2023,March,Summer,17:30,17:38,8,Minor Delay,Late running connecting train,4,811,Superfast
+JRN1171,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-03-03,2022,March,Summer,09:15,09:15,0,On Time,No Delay,3,769,Express
+JRN1172,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2024-01-22,2024,January,Winter,18:00,18:09,9,Minor Delay,Cold wave speed restriction,8,751,Mail
+JRN1173,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2023-06-09,2023,June,Monsoon,15:15,16:09,54,Moderate Delay,Heavy rainfall on track,7,604,Superfast
+JRN1174,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2023-03-13,2023,March,Summer,14:30,15:09,39,Moderate Delay,Congestion at junction,1,604,Superfast
+JRN1175,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-07-23,2024,July,Monsoon,17:45,19:25,100,Major Delay,Signal failure due to rain,1,641,Superfast
+JRN1176,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2023-02-24,2023,February,Winter,15:15,15:44,29,Minor Delay,Technical snag,6,641,Superfast
+JRN1177,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-02-25,2023,February,Winter,19:45,20:23,38,Moderate Delay,Late running due to fog,4,906,Superfast
+JRN1178,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2024-01-06,2024,January,Winter,16:30,16:38,8,Minor Delay,Track inspection,6,541,Express
+JRN1179,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2023-12-24,2023,December,Winter,12:30,12:30,0,On Time,No Delay,8,471,Express
+JRN1180,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2024-12-22,2024,December,Winter,15:45,15:45,0,On Time,No Delay,2,703,Mail
+JRN1181,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2023-11-02,2023,November,Winter,06:15,07:05,50,Moderate Delay,Technical snag,6,713,Mail
+JRN1182,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2022-04-23,2022,April,Summer,23:15,23:59,44,Moderate Delay,Late running connecting train,3,612,Express
+JRN1183,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-12-16,2024,December,Winter,21:45,23:44,119,Major Delay,Dense fog signal restriction,5,665,Mail
+JRN1184,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2024-08-25,2024,August,Monsoon,05:15,06:43,88,Major Delay,Signal failure due to rain,6,722,Express
+JRN1185,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2024-10-12,2024,October,Winter,04:15,05:09,54,Moderate Delay,Cold wave speed restriction,4,783,Superfast
+JRN1186,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-07-09,2024,July,Monsoon,22:15,23:32,77,Major Delay,Flood affected route,6,761,Express
+JRN1187,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-07-06,2024,July,Monsoon,09:45,10:24,39,Moderate Delay,Heavy rainfall on track,2,811,Superfast
+JRN1188,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2022-11-11,2022,November,Winter,15:15,15:42,27,Minor Delay,Dense fog signal restriction,8,533,Express
+JRN1189,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2022-02-05,2022,February,Winter,06:00,06:50,50,Moderate Delay,Cold wave speed restriction,3,722,Express
+JRN1190,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2023-12-12,2023,December,Winter,13:45,15:02,77,Major Delay,Technical snag,6,643,Express
+JRN1191,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2024-07-23,2024,July,Monsoon,22:00,00:49,169,Severe Delay,Flood affected route,7,580,Express
+JRN1192,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-05-06,2022,May,Summer,13:00,13:51,51,Moderate Delay,Track maintenance,2,912,Mail
+JRN1193,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2024-05-19,2024,May,Summer,09:45,09:45,0,On Time,No Delay,3,934,Superfast
+JRN1194,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-06-08,2024,June,Monsoon,08:30,10:35,125,Severe Delay,Heavy rainfall on track,6,708,Superfast
+JRN1195,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2022-02-12,2022,February,Winter,10:00,10:34,34,Moderate Delay,Late running due to fog,6,594,Superfast
+JRN1196,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-02-07,2024,February,Winter,10:45,11:41,56,Moderate Delay,Cold wave speed restriction,6,722,Mail
+JRN1197,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2024-04-19,2024,April,Summer,11:45,12:16,31,Moderate Delay,Track maintenance,6,944,Superfast
+JRN1198,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-04-18,2024,April,Summer,09:45,09:57,12,Minor Delay,Signal failure,2,623,Superfast
+JRN1199,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2024-05-04,2024,May,Summer,10:30,11:51,81,Major Delay,Signal failure,3,682,Express
+JRN1200,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2022-01-20,2022,January,Winter,07:00,07:50,50,Moderate Delay,Late running due to fog,5,604,Superfast
+JRN1201,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-10-13,2022,October,Winter,04:00,05:06,66,Major Delay,Technical snag,4,903,Mail
+JRN1202,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2023-02-11,2023,February,Winter,10:30,10:31,1,Minor Delay,Dense fog signal restriction,2,613,Superfast
+JRN1203,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-07-14,2024,July,Monsoon,08:15,09:12,57,Moderate Delay,Signal failure due to rain,5,698,Superfast
+JRN1204,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-10-25,2023,October,Winter,09:45,09:45,0,On Time,No Delay,7,573,Express
+JRN1205,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-08-12,2022,August,Monsoon,10:15,13:23,188,Severe Delay,Track waterlogging,1,722,Express
+JRN1206,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2022-01-07,2022,January,Winter,21:15,21:15,0,On Time,No Delay,6,670,Superfast
+JRN1207,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2022-11-25,2022,November,Winter,10:45,10:53,8,Minor Delay,Track inspection,3,868,Superfast
+JRN1208,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2022-12-18,2022,December,Winter,22:15,22:31,16,Minor Delay,Dense fog signal restriction,1,777,Express
+JRN1209,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2024-07-26,2024,July,Monsoon,23:00,00:41,101,Major Delay,Landslide near track,5,944,Superfast
+JRN1210,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2022-12-12,2022,December,Winter,21:15,21:24,9,Minor Delay,Track inspection,6,698,Superfast
+JRN1211,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-06-12,2024,June,Monsoon,14:45,18:00,195,Severe Delay,Heavy rainfall on track,8,741,Mail
+JRN1212,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2022-03-22,2022,March,Summer,06:45,08:20,95,Major Delay,Congestion at junction,2,580,Mail
+JRN1213,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2022-10-02,2022,October,Winter,11:30,12:05,35,Moderate Delay,Cold wave speed restriction,2,604,Superfast
+JRN1214,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2024-07-12,2024,July,Monsoon,17:15,19:26,131,Severe Delay,Signal failure due to rain,1,675,Express
+JRN1215,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2022-08-25,2022,August,Monsoon,06:15,07:19,64,Major Delay,Flood affected route,4,525,Express
+JRN1216,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-04-27,2024,April,Summer,17:45,19:13,88,Major Delay,Signal failure,6,494,Express
+JRN1217,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2022-02-13,2022,February,Winter,04:45,05:33,48,Moderate Delay,Track inspection,8,604,Superfast
+JRN1218,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2022-03-03,2022,March,Summer,11:00,11:23,23,Minor Delay,Track maintenance,6,769,Express
+JRN1219,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2023-12-21,2023,December,Winter,08:00,08:00,0,On Time,No Delay,8,651,Superfast
+JRN1220,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2023-08-25,2023,August,Monsoon,20:00,22:45,165,Severe Delay,Landslide near track,7,714,Express
+JRN1221,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-11-22,2024,November,Winter,21:15,22:46,91,Major Delay,Dense fog signal restriction,7,580,Mail
+JRN1222,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-04-24,2022,April,Summer,11:00,11:52,52,Moderate Delay,Late running connecting train,7,608,Mail
+JRN1223,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2024-07-25,2024,July,Monsoon,14:45,14:45,0,On Time,No Delay,3,670,Superfast
+JRN1224,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2022-06-01,2022,June,Monsoon,23:00,01:37,157,Severe Delay,Flood affected route,8,745,Express
+JRN1225,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2023-02-12,2023,February,Winter,21:15,22:14,59,Moderate Delay,Technical snag,6,713,Mail
+JRN1226,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2023-05-04,2023,May,Summer,23:00,00:01,61,Major Delay,Signal failure,2,566,Superfast
+JRN1227,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2024-06-15,2024,June,Monsoon,09:45,11:46,121,Severe Delay,Landslide near track,5,821,Superfast
+JRN1228,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2023-04-07,2023,April,Summer,08:30,09:02,32,Moderate Delay,Track maintenance,2,541,Express
+JRN1229,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-10-24,2022,October,Winter,11:00,11:40,40,Moderate Delay,Track inspection,8,811,Superfast
+JRN1230,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-03-18,2024,March,Summer,18:30,19:42,72,Major Delay,Signal failure,5,708,Superfast
+JRN1231,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-03-05,2022,March,Summer,18:15,18:42,27,Minor Delay,Late running connecting train,1,849,Superfast
+JRN1232,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-04-07,2022,April,Summer,10:30,10:30,0,On Time,No Delay,7,764,Superfast
+JRN1233,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2022-12-27,2022,December,Winter,07:30,08:14,44,Moderate Delay,Cold wave speed restriction,5,565,Express
+JRN1234,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2024-05-04,2024,May,Summer,15:45,15:45,0,On Time,No Delay,7,573,Express
+JRN1235,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2023-05-18,2023,May,Summer,06:30,06:47,17,Minor Delay,Track maintenance,8,580,Express
+JRN1236,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2024-11-02,2024,November,Winter,14:00,14:11,11,Minor Delay,Technical snag,8,573,Express
+JRN1237,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2022-09-11,2022,September,Monsoon,04:15,06:53,158,Severe Delay,Signal failure due to rain,6,557,Express
+JRN1238,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2023-04-09,2023,April,Summer,08:15,09:23,68,Major Delay,Congestion at junction,7,667,Express
+JRN1239,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2022-03-17,2022,March,Summer,13:30,13:30,0,On Time,No Delay,8,811,Superfast
+JRN1240,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2022-03-17,2022,March,Summer,09:30,10:28,58,Moderate Delay,Signal failure,2,840,Superfast
+JRN1241,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2024-01-11,2024,January,Winter,19:00,20:10,70,Major Delay,Cold wave speed restriction,1,745,Superfast
+JRN1242,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2022-02-20,2022,February,Winter,08:15,09:15,60,Moderate Delay,Dense fog signal restriction,5,745,Superfast
+JRN1243,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2023-02-18,2023,February,Winter,11:45,12:01,16,Minor Delay,Technical snag,1,518,Express
+JRN1244,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2024-10-01,2024,October,Winter,10:00,10:51,51,Moderate Delay,Track inspection,1,811,Superfast
+JRN1245,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-07-19,2022,July,Monsoon,09:30,11:35,125,Severe Delay,Landslide near track,1,802,Superfast
+JRN1246,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-04-14,2024,April,Summer,04:30,05:05,35,Moderate Delay,Track maintenance,5,620,Express
+JRN1247,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2022-07-17,2022,July,Monsoon,06:45,06:45,0,On Time,No Delay,4,769,Express
+JRN1248,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2022-06-03,2022,June,Monsoon,18:15,20:19,124,Severe Delay,Track waterlogging,6,821,Superfast
+JRN1249,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2023-01-08,2023,January,Winter,13:45,14:36,51,Moderate Delay,Technical snag,4,620,Express
+JRN1250,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2023-07-01,2023,July,Monsoon,11:00,11:00,0,On Time,No Delay,7,726,Superfast
+JRN1251,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-06-18,2023,June,Monsoon,15:30,15:30,0,On Time,No Delay,7,541,Express
+JRN1252,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-12-17,2022,December,Winter,15:30,15:38,8,Minor Delay,Track inspection,4,494,Express
+JRN1253,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2022-08-10,2022,August,Monsoon,12:45,15:14,149,Severe Delay,Signal failure due to rain,3,580,Express
+JRN1254,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2023-08-20,2023,August,Monsoon,09:00,10:36,96,Major Delay,Flood affected route,6,510,Express
+JRN1255,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-04-22,2022,April,Summer,19:45,20:33,48,Moderate Delay,Signal failure,7,585,Superfast
+JRN1256,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2024-08-19,2024,August,Monsoon,11:45,12:34,49,Moderate Delay,Signal failure due to rain,7,706,Express
+JRN1257,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2024-04-25,2024,April,Summer,23:15,23:41,26,Minor Delay,Late running connecting train,1,566,Superfast
+JRN1258,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2024-11-09,2024,November,Winter,21:45,21:45,0,On Time,No Delay,6,632,Superfast
+JRN1259,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-01-04,2022,January,Winter,05:15,05:56,41,Moderate Delay,Technical snag,8,585,Superfast
+JRN1260,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2024-08-08,2024,August,Monsoon,06:15,06:15,0,On Time,No Delay,2,613,Superfast
+JRN1261,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2022-03-22,2022,March,Summer,22:30,22:30,0,On Time,No Delay,4,557,Express
+JRN1262,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2023-02-14,2023,February,Winter,21:15,21:45,30,Minor Delay,Late running due to fog,8,760,Mail
+JRN1263,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2023-03-01,2023,March,Summer,17:15,18:09,54,Moderate Delay,Congestion at junction,7,717,Superfast
+JRN1264,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-07-04,2024,July,Monsoon,20:15,23:08,173,Severe Delay,Signal failure due to rain,3,608,Mail
+JRN1265,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2024-10-10,2024,October,Winter,13:30,14:03,33,Moderate Delay,Track inspection,4,830,Superfast
+JRN1266,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2022-11-03,2022,November,Winter,14:30,14:30,0,On Time,No Delay,1,764,Superfast
+JRN1267,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2022-09-02,2022,September,Monsoon,10:00,11:24,84,Major Delay,Flood affected route,4,494,Express
+JRN1268,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2024-05-23,2024,May,Summer,14:15,14:15,0,On Time,No Delay,2,565,Express
+JRN1269,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-12-23,2022,December,Winter,18:00,19:00,60,Moderate Delay,Track inspection,5,570,Mail
+JRN1270,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2024-05-02,2024,May,Summer,20:45,20:45,0,On Time,No Delay,7,761,Express
+JRN1271,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2022-12-28,2022,December,Winter,13:45,13:45,0,On Time,No Delay,2,620,Express
+JRN1272,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2022-01-14,2022,January,Winter,18:00,18:55,55,Moderate Delay,Cold wave speed restriction,4,679,Superfast
+JRN1273,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2024-11-25,2024,November,Winter,16:45,16:46,1,Minor Delay,Dense fog signal restriction,5,588,Express
+JRN1274,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2022-12-10,2022,December,Winter,16:30,17:27,57,Moderate Delay,Track inspection,8,726,Superfast
+JRN1275,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-08-23,2022,August,Monsoon,20:45,23:34,169,Severe Delay,Flood affected route,8,840,Superfast
+JRN1276,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2023-12-27,2023,December,Winter,22:30,23:28,58,Moderate Delay,Cold wave speed restriction,7,684,Mail
+JRN1277,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2024-01-01,2024,January,Winter,23:00,23:29,29,Minor Delay,Technical snag,3,533,Express
+JRN1278,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-06-27,2022,June,Monsoon,19:00,21:26,146,Severe Delay,Signal failure due to rain,3,665,Mail
+JRN1279,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2022-08-20,2022,August,Monsoon,21:45,23:19,94,Major Delay,Signal failure due to rain,1,594,Superfast
+JRN1280,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2022-06-08,2022,June,Monsoon,15:30,16:47,77,Major Delay,Signal failure due to rain,2,887,Superfast
+JRN1281,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-07-27,2024,July,Monsoon,17:45,19:31,106,Major Delay,Landslide near track,8,575,Superfast
+JRN1282,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2022-11-08,2022,November,Winter,05:30,06:16,46,Moderate Delay,Late running due to fog,3,737,Express
+JRN1283,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2024-08-12,2024,August,Monsoon,09:00,10:50,110,Major Delay,Signal failure due to rain,8,632,Superfast
+JRN1284,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2023-08-18,2023,August,Monsoon,15:00,17:33,153,Severe Delay,Heavy rainfall on track,8,802,Superfast
+JRN1285,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2023-04-03,2023,April,Summer,23:30,23:30,0,On Time,No Delay,4,575,Superfast
+JRN1286,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2024-10-03,2024,October,Winter,14:00,14:50,50,Moderate Delay,Technical snag,2,906,Superfast
+JRN1287,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-06-13,2022,June,Monsoon,13:30,15:57,147,Severe Delay,Heavy rainfall on track,4,811,Superfast
+JRN1288,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2022-04-28,2022,April,Summer,06:45,07:54,69,Major Delay,Congestion at junction,3,525,Express
+JRN1289,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2022-06-04,2022,June,Monsoon,08:00,10:06,126,Severe Delay,Heavy rainfall on track,5,849,Superfast
+JRN1290,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2024-09-24,2024,September,Monsoon,12:00,14:23,143,Severe Delay,Heavy rainfall on track,8,575,Superfast
+JRN1291,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2023-07-28,2023,July,Monsoon,12:15,13:00,45,Moderate Delay,Signal failure due to rain,5,660,Superfast
+JRN1292,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2023-05-13,2023,May,Summer,16:30,16:30,0,On Time,No Delay,8,830,Superfast
+JRN1293,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2022-01-03,2022,January,Winter,22:30,23:36,66,Major Delay,Track inspection,8,510,Express
+JRN1294,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2024-12-25,2024,December,Winter,21:00,21:00,0,On Time,No Delay,4,594,Superfast
+JRN1295,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2024-06-11,2024,June,Monsoon,10:30,10:30,0,On Time,No Delay,5,934,Superfast
+JRN1296,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2023-12-12,2023,December,Winter,20:00,20:22,22,Minor Delay,Track inspection,2,566,Superfast
+JRN1297,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2024-01-05,2024,January,Winter,05:45,06:44,59,Moderate Delay,Cold wave speed restriction,6,931,Mail
+JRN1298,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-12-05,2024,December,Winter,14:15,14:28,13,Minor Delay,Cold wave speed restriction,2,604,Express
+JRN1299,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-09-07,2022,September,Monsoon,14:00,16:52,172,Severe Delay,Track waterlogging,1,565,Express
+JRN1300,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2024-08-24,2024,August,Monsoon,12:00,14:32,152,Severe Delay,Track waterlogging,2,604,Superfast
+JRN1301,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2024-07-10,2024,July,Monsoon,10:45,13:27,162,Severe Delay,Heavy rainfall on track,7,698,Superfast
+JRN1302,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2024-09-03,2024,September,Monsoon,17:45,19:04,79,Major Delay,Signal failure due to rain,1,761,Express
+JRN1303,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2022-08-09,2022,August,Monsoon,04:15,04:15,0,On Time,No Delay,4,761,Express
+JRN1304,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-07-18,2023,July,Monsoon,22:45,23:51,66,Major Delay,Flood affected route,8,486,Express
+JRN1305,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2024-08-06,2024,August,Monsoon,17:15,19:14,119,Major Delay,Track waterlogging,4,730,Express
+JRN1306,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2022-04-07,2022,April,Summer,04:30,05:36,66,Major Delay,Signal failure,2,604,Superfast
+JRN1307,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2023-07-01,2023,July,Monsoon,17:15,19:18,123,Severe Delay,Landslide near track,7,915,Superfast
+JRN1308,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-09-04,2023,September,Monsoon,23:00,23:47,47,Moderate Delay,Track waterlogging,7,849,Superfast
+JRN1309,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2022-05-04,2022,May,Summer,20:15,21:46,91,Major Delay,Track maintenance,4,944,Superfast
+JRN1310,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2024-06-28,2024,June,Monsoon,11:45,13:14,89,Major Delay,Track waterlogging,5,726,Superfast
+JRN1311,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2022-10-19,2022,October,Winter,12:00,12:44,44,Moderate Delay,Dense fog signal restriction,7,525,Express
+JRN1312,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-11-13,2022,November,Winter,09:15,09:24,9,Minor Delay,Late running due to fog,2,730,Express
+JRN1313,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2024-09-25,2024,September,Monsoon,14:15,15:24,69,Major Delay,Track waterlogging,7,659,Express
+JRN1314,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-03-27,2024,March,Summer,06:15,06:15,0,On Time,No Delay,8,944,Superfast
+JRN1315,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2022-11-22,2022,November,Winter,14:15,14:58,43,Moderate Delay,Cold wave speed restriction,7,585,Superfast
+JRN1316,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-06-24,2022,June,Monsoon,18:30,21:32,182,Severe Delay,Landslide near track,4,604,Express
+JRN1317,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-05-09,2023,May,Summer,15:45,15:45,0,On Time,No Delay,3,944,Superfast
+JRN1318,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2023-08-28,2023,August,Monsoon,09:15,12:44,209,Severe Delay,Signal failure due to rain,1,846,Mail
+JRN1319,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-05-22,2024,May,Summer,16:00,17:20,80,Major Delay,Late running connecting train,4,877,Superfast
+JRN1320,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2023-06-21,2023,June,Monsoon,16:15,16:15,0,On Time,No Delay,2,884,Mail
+JRN1321,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2024-01-23,2024,January,Winter,07:30,07:32,2,Minor Delay,Late running due to fog,3,745,Superfast
+JRN1322,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2022-04-22,2022,April,Summer,10:30,11:31,61,Major Delay,Engine technical issue,6,518,Express
+JRN1323,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2022-07-08,2022,July,Monsoon,19:15,22:14,179,Severe Delay,Signal failure due to rain,7,575,Superfast
+JRN1324,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2024-03-05,2024,March,Summer,15:00,15:21,21,Minor Delay,Signal failure,6,651,Express
+JRN1325,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2024-12-08,2024,December,Winter,21:15,21:47,32,Moderate Delay,Track inspection,4,689,Superfast
+JRN1326,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2024-06-04,2024,June,Monsoon,11:15,11:15,0,On Time,No Delay,3,783,Superfast
+JRN1327,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2022-08-13,2022,August,Monsoon,18:30,19:54,84,Major Delay,Track waterlogging,2,840,Superfast
+JRN1328,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2024-10-28,2024,October,Winter,17:15,17:27,12,Minor Delay,Cold wave speed restriction,2,585,Superfast
+JRN1329,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2022-11-10,2022,November,Winter,20:00,20:10,10,Minor Delay,Cold wave speed restriction,7,613,Superfast
+JRN1330,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-10-09,2023,October,Winter,04:30,05:04,34,Moderate Delay,Cold wave speed restriction,4,585,Superfast
+JRN1331,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2023-08-23,2023,August,Monsoon,23:45,02:35,170,Severe Delay,Landslide near track,7,575,Superfast
+JRN1332,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-01-10,2023,January,Winter,14:45,15:25,40,Moderate Delay,Dense fog signal restriction,2,689,Superfast
+JRN1333,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2024-06-16,2024,June,Monsoon,13:45,14:43,58,Moderate Delay,Flood affected route,6,604,Express
+JRN1334,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2022-11-23,2022,November,Winter,08:00,08:50,50,Moderate Delay,Dense fog signal restriction,8,811,Superfast
+JRN1335,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-05-15,2024,May,Summer,12:45,13:18,33,Moderate Delay,Track maintenance,1,745,Superfast
+JRN1336,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-01-20,2024,January,Winter,06:00,06:41,41,Moderate Delay,Technical snag,2,925,Superfast
+JRN1337,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-06-24,2024,June,Monsoon,20:00,21:25,85,Major Delay,Landslide near track,3,783,Superfast
+JRN1338,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2024-01-19,2024,January,Winter,13:15,14:07,52,Moderate Delay,Technical snag,7,604,Superfast
+JRN1339,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-11-08,2024,November,Winter,04:45,05:00,15,Minor Delay,Technical snag,7,717,Superfast
+JRN1340,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2024-02-25,2024,February,Winter,08:00,08:00,0,On Time,No Delay,8,708,Superfast
+JRN1341,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2023-02-23,2023,February,Winter,22:30,22:30,0,On Time,No Delay,5,643,Express
+JRN1342,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2022-11-25,2022,November,Winter,16:00,16:00,0,On Time,No Delay,2,604,Express
+JRN1343,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2024-05-19,2024,May,Summer,21:30,22:09,39,Moderate Delay,Engine technical issue,2,779,Mail
+JRN1344,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-08-26,2024,August,Monsoon,13:30,14:29,59,Moderate Delay,Track waterlogging,1,585,Superfast
+JRN1345,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2023-06-11,2023,June,Monsoon,09:30,12:23,173,Severe Delay,Signal failure due to rain,1,478,Express
+JRN1346,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2022-12-09,2022,December,Winter,21:15,22:27,72,Major Delay,Cold wave speed restriction,2,714,Express
+JRN1347,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2022-03-22,2022,March,Summer,21:45,22:31,46,Moderate Delay,Congestion at junction,4,896,Superfast
+JRN1348,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-11-02,2022,November,Winter,18:30,18:54,24,Minor Delay,Cold wave speed restriction,1,604,Express
+JRN1349,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-05-15,2024,May,Summer,07:00,07:54,54,Moderate Delay,Congestion at junction,8,934,Superfast
+JRN1350,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2023-07-02,2023,July,Monsoon,23:30,01:27,117,Major Delay,Heavy rainfall on track,5,769,Express
+JRN1351,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2023-09-05,2023,September,Monsoon,13:00,17:00,240,Severe Delay,Landslide near track,5,798,Mail
+JRN1352,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2024-10-13,2024,October,Winter,20:30,20:30,0,On Time,No Delay,1,736,Superfast
+JRN1353,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-04-13,2024,April,Summer,18:15,18:15,0,On Time,No Delay,8,580,Mail
+JRN1354,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-06-22,2024,June,Monsoon,18:30,18:30,0,On Time,No Delay,1,510,Express
+JRN1355,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2024-07-14,2024,July,Monsoon,14:00,15:15,75,Major Delay,Heavy rainfall on track,6,877,Superfast
+JRN1356,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2022-11-03,2022,November,Winter,07:00,07:44,44,Moderate Delay,Dense fog signal restriction,6,751,Mail
+JRN1357,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2024-01-06,2024,January,Winter,06:30,06:30,0,On Time,No Delay,4,596,Express
+JRN1358,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2022-12-21,2022,December,Winter,11:45,11:45,0,On Time,No Delay,8,934,Superfast
+JRN1359,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2024-03-23,2024,March,Summer,09:15,10:29,74,Major Delay,Track maintenance,8,651,Express
+JRN1360,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-09-27,2024,September,Monsoon,07:00,07:00,0,On Time,No Delay,6,698,Superfast
+JRN1361,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2024-10-07,2024,October,Winter,18:45,19:02,17,Minor Delay,Technical snag,7,944,Superfast
+JRN1362,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-11-13,2023,November,Winter,06:15,06:58,43,Moderate Delay,Cold wave speed restriction,8,717,Superfast
+JRN1363,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2024-10-10,2024,October,Winter,17:00,17:00,0,On Time,No Delay,6,726,Superfast
+JRN1364,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2023-06-06,2023,June,Monsoon,04:15,06:43,148,Severe Delay,Heavy rainfall on track,6,802,Superfast
+JRN1365,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2023-11-17,2023,November,Winter,07:15,07:59,44,Moderate Delay,Late running due to fog,6,764,Superfast
+JRN1366,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2023-02-08,2023,February,Winter,20:30,20:30,0,On Time,No Delay,1,934,Superfast
+JRN1367,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2022-02-13,2022,February,Winter,08:00,08:57,57,Moderate Delay,Cold wave speed restriction,8,745,Express
+JRN1368,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-01-23,2022,January,Winter,05:30,05:50,20,Minor Delay,Track inspection,5,541,Express
+JRN1369,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2022-05-18,2022,May,Summer,23:45,00:14,29,Minor Delay,Late running connecting train,3,660,Superfast
+JRN1370,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-07-21,2022,July,Monsoon,19:30,20:41,71,Major Delay,Flood affected route,1,471,Express
+JRN1371,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-01-28,2024,January,Winter,11:45,11:57,12,Minor Delay,Track inspection,1,859,Superfast
+JRN1372,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2022-10-07,2022,October,Winter,05:45,05:58,13,Minor Delay,Cold wave speed restriction,1,777,Express
+JRN1373,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2023-01-13,2023,January,Winter,20:15,20:15,0,On Time,No Delay,5,659,Express
+JRN1374,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2022-01-19,2022,January,Winter,21:30,22:23,53,Moderate Delay,Cold wave speed restriction,2,821,Superfast
+JRN1375,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2024-11-15,2024,November,Winter,06:15,06:15,0,On Time,No Delay,5,792,Superfast
+JRN1376,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2024-12-16,2024,December,Winter,17:45,17:56,11,Minor Delay,Cold wave speed restriction,4,811,Superfast
+JRN1377,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-04-14,2024,April,Summer,10:45,11:31,46,Moderate Delay,Congestion at junction,5,849,Superfast
+JRN1378,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2024-09-21,2024,September,Monsoon,20:00,20:41,41,Moderate Delay,Landslide near track,3,518,Express
+JRN1379,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2023-12-04,2023,December,Winter,14:00,14:19,19,Minor Delay,Dense fog signal restriction,2,745,Express
+JRN1380,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2022-03-04,2022,March,Summer,08:45,09:38,53,Moderate Delay,Engine technical issue,2,604,Superfast
+JRN1381,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2023-06-23,2023,June,Monsoon,07:15,10:07,172,Severe Delay,Heavy rainfall on track,3,698,Superfast
+JRN1382,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2023-10-17,2023,October,Winter,21:00,21:21,21,Minor Delay,Cold wave speed restriction,5,541,Express
+JRN1383,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2022-02-12,2022,February,Winter,19:30,19:49,19,Minor Delay,Late running due to fog,6,596,Express
+JRN1384,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2022-05-11,2022,May,Summer,09:15,09:40,25,Minor Delay,Congestion at junction,8,708,Superfast
+JRN1385,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2024-12-25,2024,December,Winter,12:30,12:49,19,Minor Delay,Track inspection,8,566,Superfast
+JRN1386,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2024-02-22,2024,February,Winter,05:45,05:52,7,Minor Delay,Late running due to fog,2,753,Express
+JRN1387,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2024-02-23,2024,February,Winter,08:00,08:00,0,On Time,No Delay,7,730,Express
+JRN1388,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2024-10-24,2024,October,Winter,05:00,05:15,15,Minor Delay,Track inspection,3,698,Express
+JRN1389,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2022-09-19,2022,September,Monsoon,10:30,12:19,109,Major Delay,Landslide near track,8,549,Express
+JRN1390,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2022-06-03,2022,June,Monsoon,22:15,00:24,129,Severe Delay,Signal failure due to rain,3,785,Express
+JRN1391,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-08-05,2024,August,Monsoon,08:30,10:43,133,Severe Delay,Signal failure due to rain,6,811,Superfast
+JRN1392,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2023-07-12,2023,July,Monsoon,21:45,22:24,39,Moderate Delay,Heavy rainfall on track,7,613,Superfast
+JRN1393,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2022-05-08,2022,May,Summer,15:45,15:53,8,Minor Delay,Track maintenance,2,604,Superfast
+JRN1394,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-04-04,2022,April,Summer,13:45,13:45,0,On Time,No Delay,7,518,Express
+JRN1395,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2024-12-18,2024,December,Winter,04:00,04:25,25,Minor Delay,Track inspection,8,745,Express
+JRN1396,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-11-25,2022,November,Winter,13:15,13:52,37,Moderate Delay,Technical snag,5,944,Superfast
+JRN1397,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2022-07-12,2022,July,Monsoon,12:45,15:25,160,Severe Delay,Flood affected route,7,670,Superfast
+JRN1398,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-09-14,2022,September,Monsoon,09:00,09:00,0,On Time,No Delay,2,745,Superfast
+JRN1399,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-05-12,2022,May,Summer,04:00,04:00,0,On Time,No Delay,8,643,Express
+JRN1400,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2023-09-11,2023,September,Monsoon,14:45,16:41,116,Major Delay,Landslide near track,7,887,Superfast
+JRN1401,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2024-02-27,2024,February,Winter,21:30,21:30,0,On Time,No Delay,1,868,Superfast
+JRN1402,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-11-27,2022,November,Winter,20:30,21:09,39,Moderate Delay,Dense fog signal restriction,6,502,Express
+JRN1403,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-10-27,2023,October,Winter,16:30,16:54,24,Minor Delay,Track inspection,6,811,Superfast
+JRN1404,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2024-09-13,2024,September,Monsoon,12:45,14:50,125,Severe Delay,Heavy rainfall on track,6,502,Express
+JRN1405,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2022-06-23,2022,June,Monsoon,10:00,12:16,136,Severe Delay,Heavy rainfall on track,2,632,Superfast
+JRN1406,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-12-06,2024,December,Winter,04:30,04:42,12,Minor Delay,Track inspection,1,915,Superfast
+JRN1407,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2023-09-20,2023,September,Monsoon,23:45,23:45,0,On Time,No Delay,2,877,Superfast
+JRN1408,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2023-03-17,2023,March,Summer,08:00,08:41,41,Moderate Delay,Track maintenance,1,764,Superfast
+JRN1409,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2023-06-15,2023,June,Monsoon,20:30,23:56,206,Severe Delay,Track waterlogging,4,722,Mail
+JRN1410,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2024-10-23,2024,October,Winter,06:45,07:34,49,Moderate Delay,Technical snag,3,792,Superfast
+JRN1411,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2022-11-18,2022,November,Winter,08:15,09:02,47,Moderate Delay,Track inspection,2,670,Superfast
+JRN1412,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2023-10-02,2023,October,Winter,12:00,12:22,22,Minor Delay,Track inspection,3,802,Superfast
+JRN1413,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2024-10-04,2024,October,Winter,18:15,18:24,9,Minor Delay,Cold wave speed restriction,1,667,Express
+JRN1414,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2024-06-05,2024,June,Monsoon,17:00,19:48,168,Severe Delay,Heavy rainfall on track,2,714,Express
+JRN1415,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-07-19,2022,July,Monsoon,08:45,08:45,0,On Time,No Delay,8,675,Mail
+JRN1416,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2022-09-14,2022,September,Monsoon,19:30,22:16,166,Severe Delay,Signal failure due to rain,2,830,Superfast
+JRN1417,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2022-10-24,2022,October,Winter,12:15,13:21,66,Major Delay,Technical snag,1,660,Superfast
+JRN1418,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-07-22,2022,July,Monsoon,10:00,11:30,90,Major Delay,Signal failure due to rain,3,753,Express
+JRN1419,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2024-01-21,2024,January,Winter,09:45,09:56,11,Minor Delay,Cold wave speed restriction,8,620,Express
+JRN1420,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2024-08-12,2024,August,Monsoon,16:00,16:57,57,Moderate Delay,Signal failure due to rain,1,533,Express
+JRN1421,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2023-03-21,2023,March,Summer,14:00,14:18,18,Minor Delay,Late running connecting train,2,594,Superfast
+JRN1422,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2022-12-26,2022,December,Winter,08:45,08:45,0,On Time,No Delay,8,868,Superfast
+JRN1423,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-11-22,2024,November,Winter,21:00,21:32,32,Moderate Delay,Track inspection,4,575,Superfast
+JRN1424,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2023-01-10,2023,January,Winter,08:15,08:58,43,Moderate Delay,Cold wave speed restriction,7,566,Superfast
+JRN1425,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2023-09-19,2023,September,Monsoon,05:30,07:10,100,Major Delay,Track waterlogging,4,755,Superfast
+JRN1426,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2023-11-11,2023,November,Winter,12:15,13:05,50,Moderate Delay,Late running due to fog,1,486,Express
+JRN1427,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2022-03-26,2022,March,Summer,04:00,04:16,16,Minor Delay,Track maintenance,3,660,Superfast
+JRN1428,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2024-06-12,2024,June,Monsoon,16:30,20:20,230,Severe Delay,Signal failure due to rain,4,635,Express
+JRN1429,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2022-11-03,2022,November,Winter,07:45,07:52,7,Minor Delay,Late running due to fog,7,594,Superfast
+JRN1430,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2024-12-09,2024,December,Winter,18:15,19:10,55,Moderate Delay,Late running due to fog,6,764,Superfast
+JRN1431,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2023-10-14,2023,October,Winter,23:00,23:00,0,On Time,No Delay,3,604,Express
+JRN1432,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2023-08-09,2023,August,Monsoon,08:15,10:58,163,Severe Delay,Signal failure due to rain,4,745,Superfast
+JRN1433,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-03-23,2022,March,Summer,10:45,12:29,104,Major Delay,Late running connecting train,7,604,Superfast
+JRN1434,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2023-07-27,2023,July,Monsoon,05:00,08:21,201,Severe Delay,Track waterlogging,5,753,Express
+JRN1435,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2023-12-13,2023,December,Winter,04:30,04:30,0,On Time,No Delay,1,730,Express
+JRN1436,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2023-02-12,2023,February,Winter,14:45,15:35,50,Moderate Delay,Technical snag,2,769,Express
+JRN1437,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2022-10-16,2022,October,Winter,07:15,07:15,0,On Time,No Delay,7,604,Express
+JRN1438,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2022-07-20,2022,July,Monsoon,17:15,18:26,71,Major Delay,Track waterlogging,6,802,Superfast
+JRN1439,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2022-12-11,2022,December,Winter,14:45,14:45,0,On Time,No Delay,2,753,Express
+JRN1440,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-09-25,2022,September,Monsoon,05:45,07:12,87,Major Delay,Heavy rainfall on track,4,846,Mail
+JRN1441,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2024-03-08,2024,March,Summer,08:15,08:15,0,On Time,No Delay,7,706,Express
+JRN1442,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2023-03-24,2023,March,Summer,09:15,10:41,86,Major Delay,Track maintenance,8,849,Superfast
+JRN1443,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-05-01,2023,May,Summer,12:00,12:48,48,Moderate Delay,Engine technical issue,4,792,Superfast
+JRN1444,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-02-07,2022,February,Winter,16:30,16:30,0,On Time,No Delay,8,802,Superfast
+JRN1445,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2024-01-18,2024,January,Winter,17:45,17:59,14,Minor Delay,Dense fog signal restriction,1,830,Superfast
+JRN1446,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-11-25,2024,November,Winter,07:00,08:08,68,Major Delay,Technical snag,1,510,Express
+JRN1447,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2024-07-07,2024,July,Monsoon,10:00,12:25,145,Severe Delay,Landslide near track,2,745,Express
+JRN1448,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2022-03-01,2022,March,Summer,23:15,23:38,23,Minor Delay,Engine technical issue,6,717,Superfast
+JRN1449,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2024-03-05,2024,March,Summer,20:15,21:25,70,Major Delay,Late running connecting train,4,698,Express
+JRN1450,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2024-05-26,2024,May,Summer,09:30,10:33,63,Major Delay,Late running connecting train,6,565,Express
+JRN1451,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2022-06-09,2022,June,Monsoon,21:15,21:15,0,On Time,No Delay,2,588,Express
+JRN1452,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2023-12-03,2023,December,Winter,10:30,11:18,48,Moderate Delay,Dense fog signal restriction,1,811,Superfast
+JRN1453,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2024-08-09,2024,August,Monsoon,09:00,11:43,163,Severe Delay,Signal failure due to rain,1,887,Superfast
+JRN1454,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-10-08,2023,October,Winter,17:45,17:52,7,Minor Delay,Cold wave speed restriction,8,471,Express
+JRN1455,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2022-01-25,2022,January,Winter,07:45,08:06,21,Minor Delay,Track inspection,1,575,Superfast
+JRN1456,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2024-12-10,2024,December,Winter,05:00,05:39,39,Moderate Delay,Cold wave speed restriction,6,745,Express
+JRN1457,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2023-02-14,2023,February,Winter,05:45,06:49,64,Major Delay,Technical snag,5,698,Superfast
+JRN1458,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2023-09-20,2023,September,Monsoon,16:30,18:15,105,Major Delay,Flood affected route,8,859,Superfast
+JRN1459,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2023-03-15,2023,March,Summer,18:45,19:43,58,Moderate Delay,Track maintenance,8,792,Superfast
+JRN1460,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2024-08-05,2024,August,Monsoon,23:00,23:54,54,Moderate Delay,Track waterlogging,8,604,Express
+JRN1461,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2022-02-04,2022,February,Winter,18:15,18:15,0,On Time,No Delay,8,849,Superfast
+JRN1462,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-02-19,2024,February,Winter,21:45,21:53,8,Minor Delay,Dense fog signal restriction,6,783,Superfast
+JRN1463,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2022-06-05,2022,June,Monsoon,09:45,09:45,0,On Time,No Delay,2,628,Express
+JRN1464,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2024-12-11,2024,December,Winter,09:30,10:17,47,Moderate Delay,Cold wave speed restriction,3,502,Express
+JRN1465,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-06-17,2023,June,Monsoon,13:30,16:07,157,Severe Delay,Flood affected route,8,486,Express
+JRN1466,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2023-08-05,2023,August,Monsoon,09:45,10:34,49,Moderate Delay,Signal failure due to rain,1,868,Superfast
+JRN1467,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2023-09-02,2023,September,Monsoon,04:30,04:30,0,On Time,No Delay,3,830,Superfast
+JRN1468,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2022-02-25,2022,February,Winter,15:15,15:28,13,Minor Delay,Technical snag,2,849,Superfast
+JRN1469,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2023-08-28,2023,August,Monsoon,21:45,23:55,130,Severe Delay,Landslide near track,4,541,Express
+JRN1470,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-10-27,2024,October,Winter,15:45,16:13,28,Minor Delay,Track inspection,2,689,Superfast
+JRN1471,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2023-01-11,2023,January,Winter,16:15,17:15,60,Moderate Delay,Late running due to fog,1,570,Mail
+JRN1472,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2022-05-07,2022,May,Summer,06:00,06:37,37,Moderate Delay,Late running connecting train,8,604,Superfast
+JRN1473,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-04-03,2024,April,Summer,16:00,18:39,159,Severe Delay,Track maintenance,5,931,Mail
+JRN1474,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2024-04-23,2024,April,Summer,20:15,20:47,32,Moderate Delay,Congestion at junction,7,596,Express
+JRN1475,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-11-06,2023,November,Winter,14:30,14:30,0,On Time,No Delay,1,689,Superfast
+JRN1476,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2023-11-12,2023,November,Winter,12:30,13:42,72,Major Delay,Late running due to fog,4,623,Superfast
+JRN1477,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2023-04-15,2023,April,Summer,16:45,17:29,44,Moderate Delay,Late running connecting train,8,660,Superfast
+JRN1478,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2023-11-23,2023,November,Winter,19:15,20:01,46,Moderate Delay,Technical snag,1,755,Superfast
+JRN1479,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2022-05-17,2022,May,Summer,10:45,11:04,19,Minor Delay,Congestion at junction,4,580,Express
+JRN1480,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2022-10-26,2022,October,Winter,18:45,19:29,44,Moderate Delay,Dense fog signal restriction,6,585,Superfast
+JRN1481,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2022-05-02,2022,May,Summer,09:45,10:32,47,Moderate Delay,Signal failure,8,934,Superfast
+JRN1482,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2024-07-14,2024,July,Monsoon,04:00,07:17,197,Severe Delay,Landslide near track,1,494,Express
+JRN1483,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2022-12-01,2022,December,Winter,17:45,18:37,52,Moderate Delay,Track inspection,6,698,Superfast
+JRN1484,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-08-18,2023,August,Monsoon,19:45,20:20,35,Moderate Delay,Landslide near track,3,580,Express
+JRN1485,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2023-01-26,2023,January,Winter,15:30,16:02,32,Moderate Delay,Cold wave speed restriction,6,717,Superfast
+JRN1486,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2022-07-02,2022,July,Monsoon,18:15,19:30,75,Major Delay,Landslide near track,2,821,Superfast
+JRN1487,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2024-12-01,2024,December,Winter,23:30,23:30,0,On Time,No Delay,5,761,Express
+JRN1488,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-08-28,2022,August,Monsoon,18:00,18:00,0,On Time,No Delay,2,821,Superfast
+JRN1489,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2024-10-27,2024,October,Winter,21:15,21:24,9,Minor Delay,Technical snag,2,651,Express
+JRN1490,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-11-19,2023,November,Winter,08:45,08:58,13,Minor Delay,Technical snag,8,679,Superfast
+JRN1491,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-09-20,2022,September,Monsoon,11:15,11:15,0,On Time,No Delay,6,736,Superfast
+JRN1492,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-12-07,2022,December,Winter,19:00,19:25,25,Minor Delay,Technical snag,5,830,Superfast
+JRN1493,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2022-12-25,2022,December,Winter,04:30,05:47,77,Major Delay,Technical snag,8,906,Superfast
+JRN1494,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2024-02-08,2024,February,Winter,09:30,09:51,21,Minor Delay,Cold wave speed restriction,7,737,Express
+JRN1495,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2023-03-22,2023,March,Summer,06:30,07:04,34,Moderate Delay,Engine technical issue,5,471,Express
+JRN1496,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2024-06-24,2024,June,Monsoon,07:15,08:18,63,Major Delay,Landslide near track,8,774,Superfast
+JRN1497,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2022-06-15,2022,June,Monsoon,16:30,16:44,14,Minor Delay,Flood affected route,8,925,Superfast
+JRN1498,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2022-12-03,2022,December,Winter,12:30,12:30,0,On Time,No Delay,8,670,Superfast
+JRN1499,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2023-12-11,2023,December,Winter,17:15,18:09,54,Moderate Delay,Late running due to fog,1,934,Superfast
+JRN1500,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2024-04-17,2024,April,Summer,11:45,13:09,84,Major Delay,Track maintenance,7,893,Mail
+JRN1501,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2024-09-04,2024,September,Monsoon,23:15,02:10,175,Severe Delay,Flood affected route,8,641,Superfast
+JRN1502,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2024-07-11,2024,July,Monsoon,07:45,10:38,173,Severe Delay,Signal failure due to rain,8,764,Superfast
+JRN1503,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2023-03-10,2023,March,Summer,13:45,15:07,82,Major Delay,Engine technical issue,1,585,Superfast
+JRN1504,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2024-10-08,2024,October,Winter,21:45,21:45,0,On Time,No Delay,6,632,Superfast
+JRN1505,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-08-14,2022,August,Monsoon,13:45,15:09,84,Major Delay,Signal failure due to rain,7,471,Express
+JRN1506,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-10-12,2022,October,Winter,19:45,20:32,47,Moderate Delay,Cold wave speed restriction,4,628,Express
+JRN1507,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2023-03-23,2023,March,Summer,18:00,19:42,102,Major Delay,Track maintenance,3,703,Mail
+JRN1508,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-10-06,2022,October,Winter,19:15,20:16,61,Major Delay,Late running due to fog,4,865,Mail
+JRN1509,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-03-21,2023,March,Summer,18:30,18:51,21,Minor Delay,Congestion at junction,2,785,Express
+JRN1510,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2023-06-25,2023,June,Monsoon,22:30,22:45,15,Minor Delay,Track waterlogging,3,708,Superfast
+JRN1511,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2022-12-13,2022,December,Winter,15:00,15:01,1,Minor Delay,Technical snag,7,896,Superfast
+JRN1512,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2024-01-26,2024,January,Winter,05:00,05:58,58,Moderate Delay,Dense fog signal restriction,2,745,Express
+JRN1513,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2024-04-22,2024,April,Summer,16:45,17:49,64,Major Delay,Congestion at junction,5,849,Superfast
+JRN1514,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2024-04-05,2024,April,Summer,22:00,22:53,53,Moderate Delay,Late running connecting train,5,533,Express
+JRN1515,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2023-01-01,2023,January,Winter,08:00,09:19,79,Major Delay,Technical snag,7,635,Express
+JRN1516,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-05-01,2022,May,Summer,17:00,17:00,0,On Time,No Delay,4,717,Superfast
+JRN1517,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2022-03-18,2022,March,Summer,05:45,06:31,46,Moderate Delay,Congestion at junction,7,821,Superfast
+JRN1518,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2022-04-12,2022,April,Summer,12:30,12:30,0,On Time,No Delay,3,632,Superfast
+JRN1519,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2023-03-06,2023,March,Summer,15:45,16:53,68,Major Delay,Engine technical issue,1,635,Express
+JRN1520,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-09-19,2022,September,Monsoon,10:45,13:15,150,Severe Delay,Flood affected route,4,525,Express
+JRN1521,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2023-01-28,2023,January,Winter,10:30,10:30,0,On Time,No Delay,5,612,Express
+JRN1522,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2024-05-22,2024,May,Summer,10:00,11:29,89,Major Delay,Congestion at junction,2,518,Express
+JRN1523,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-08-20,2022,August,Monsoon,21:45,23:28,103,Major Delay,Signal failure due to rain,6,651,Express
+JRN1524,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2024-05-23,2024,May,Summer,19:15,19:35,20,Minor Delay,Signal failure,3,874,Mail
+JRN1525,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2023-05-28,2023,May,Summer,12:15,12:48,33,Moderate Delay,Congestion at junction,8,698,Express
+JRN1526,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2024-02-15,2024,February,Winter,04:00,04:47,47,Moderate Delay,Late running due to fog,5,643,Express
+JRN1527,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-11-26,2024,November,Winter,12:30,12:30,0,On Time,No Delay,4,689,Superfast
+JRN1528,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2022-07-10,2022,July,Monsoon,12:30,14:13,103,Major Delay,Flood affected route,4,745,Express
+JRN1529,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2024-12-19,2024,December,Winter,21:15,21:42,27,Minor Delay,Dense fog signal restriction,7,557,Express
+JRN1530,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2023-09-21,2023,September,Monsoon,08:00,09:24,84,Major Delay,Flood affected route,3,783,Superfast
+JRN1531,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-11-11,2022,November,Winter,05:00,06:53,113,Major Delay,Dense fog signal restriction,4,599,Mail
+JRN1532,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2023-08-21,2023,August,Monsoon,07:30,08:57,87,Major Delay,Track waterlogging,2,849,Superfast
+JRN1533,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2023-03-24,2023,March,Summer,17:30,18:36,66,Major Delay,Congestion at junction,5,859,Superfast
+JRN1534,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2022-12-18,2022,December,Winter,21:45,22:54,69,Major Delay,Track inspection,1,755,Superfast
+JRN1535,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2023-10-28,2023,October,Winter,12:15,13:04,49,Moderate Delay,Technical snag,5,830,Superfast
+JRN1536,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2024-06-07,2024,June,Monsoon,23:45,00:31,46,Moderate Delay,Signal failure due to rain,5,745,Superfast
+JRN1537,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2022-06-20,2022,June,Monsoon,23:30,02:12,162,Severe Delay,Flood affected route,1,670,Superfast
+JRN1538,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2022-12-14,2022,December,Winter,06:15,06:15,0,On Time,No Delay,4,659,Express
+JRN1539,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2023-02-05,2023,February,Winter,19:30,19:58,28,Minor Delay,Technical snag,1,849,Superfast
+JRN1540,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2024-04-22,2024,April,Summer,19:45,19:45,0,On Time,No Delay,4,670,Superfast
+JRN1541,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2024-10-16,2024,October,Winter,19:45,19:45,0,On Time,No Delay,5,471,Express
+JRN1542,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2023-04-14,2023,April,Summer,17:30,17:39,9,Minor Delay,Track maintenance,5,565,Express
+JRN1543,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-03-20,2024,March,Summer,06:30,07:05,35,Moderate Delay,Signal failure,3,906,Superfast
+JRN1544,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2024-02-27,2024,February,Winter,23:45,00:26,41,Moderate Delay,Track inspection,1,821,Superfast
+JRN1545,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2024-11-16,2024,November,Winter,06:30,06:39,9,Minor Delay,Technical snag,3,722,Express
+JRN1546,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2022-09-18,2022,September,Monsoon,20:15,21:28,73,Major Delay,Signal failure due to rain,5,846,Mail
+JRN1547,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2024-11-27,2024,November,Winter,06:30,07:17,47,Moderate Delay,Late running due to fog,1,774,Superfast
+JRN1548,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2024-09-09,2024,September,Monsoon,19:00,21:13,133,Severe Delay,Flood affected route,4,585,Superfast
+JRN1549,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2023-05-25,2023,May,Summer,19:30,20:20,50,Moderate Delay,Late running connecting train,2,745,Superfast
+JRN1550,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2023-06-25,2023,June,Monsoon,09:15,09:15,0,On Time,No Delay,1,717,Superfast
+JRN1551,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2024-09-21,2024,September,Monsoon,08:15,10:36,141,Severe Delay,Heavy rainfall on track,8,651,Express
+JRN1552,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-01-17,2022,January,Winter,08:30,08:44,14,Minor Delay,Cold wave speed restriction,3,612,Express
+JRN1553,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-03-02,2024,March,Summer,05:00,05:00,0,On Time,No Delay,5,670,Superfast
+JRN1554,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2024-01-27,2024,January,Winter,04:30,04:30,0,On Time,No Delay,7,525,Express
+JRN1555,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2023-03-12,2023,March,Summer,23:15,00:14,59,Moderate Delay,Late running connecting train,4,665,Mail
+JRN1556,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2024-03-03,2024,March,Summer,11:15,13:03,108,Major Delay,Engine technical issue,3,730,Express
+JRN1557,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2024-07-03,2024,July,Monsoon,19:45,21:07,82,Major Delay,Signal failure due to rain,3,708,Superfast
+JRN1558,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2023-08-02,2023,August,Monsoon,12:00,14:22,142,Severe Delay,Signal failure due to rain,1,594,Superfast
+JRN1559,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2023-05-23,2023,May,Summer,07:15,08:52,97,Major Delay,Track maintenance,8,811,Superfast
+JRN1560,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2022-09-16,2022,September,Monsoon,16:30,16:30,0,On Time,No Delay,4,486,Express
+JRN1561,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2022-08-04,2022,August,Monsoon,23:30,01:13,103,Major Delay,Heavy rainfall on track,7,689,Superfast
+JRN1562,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-05-15,2024,May,Summer,11:00,12:06,66,Major Delay,Congestion at junction,2,821,Superfast
+JRN1563,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2023-05-12,2023,May,Summer,05:00,05:00,0,On Time,No Delay,3,651,Superfast
+JRN1564,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2023-06-16,2023,June,Monsoon,09:45,10:48,63,Major Delay,Landslide near track,8,566,Superfast
+JRN1565,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2024-02-03,2024,February,Winter,07:30,07:30,0,On Time,No Delay,2,951,Mail
+JRN1566,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2022-10-14,2022,October,Winter,16:30,17:04,34,Moderate Delay,Late running due to fog,4,777,Express
+JRN1567,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-07-05,2024,July,Monsoon,15:30,18:05,155,Severe Delay,Heavy rainfall on track,1,620,Express
+JRN1568,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2022-10-23,2022,October,Winter,07:30,08:25,55,Moderate Delay,Dense fog signal restriction,6,575,Superfast
+JRN1569,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-03-10,2024,March,Summer,09:45,10:10,25,Minor Delay,Congestion at junction,4,821,Superfast
+JRN1570,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2022-04-09,2022,April,Summer,11:15,11:50,35,Moderate Delay,Track maintenance,8,659,Express
+JRN1571,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-06-15,2024,June,Monsoon,15:00,16:00,60,Moderate Delay,Heavy rainfall on track,2,675,Express
+JRN1572,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2023-06-01,2023,June,Monsoon,22:30,00:38,128,Severe Delay,Signal failure due to rain,8,783,Superfast
+JRN1573,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-12-28,2022,December,Winter,05:45,06:37,52,Moderate Delay,Technical snag,3,777,Express
+JRN1574,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2024-03-25,2024,March,Summer,08:45,08:45,0,On Time,No Delay,3,821,Superfast
+JRN1575,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2023-12-10,2023,December,Winter,19:30,19:45,15,Minor Delay,Late running due to fog,3,698,Superfast
+JRN1576,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2024-02-01,2024,February,Winter,11:30,12:01,31,Moderate Delay,Cold wave speed restriction,1,745,Express
+JRN1577,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2024-06-24,2024,June,Monsoon,17:15,18:34,79,Major Delay,Signal failure due to rain,4,777,Express
+JRN1578,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-05-03,2022,May,Summer,09:30,09:30,0,On Time,No Delay,8,811,Superfast
+JRN1579,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2023-08-19,2023,August,Monsoon,13:45,16:02,137,Severe Delay,Flood affected route,4,641,Superfast
+JRN1580,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2022-11-16,2022,November,Winter,15:45,15:58,13,Minor Delay,Dense fog signal restriction,8,502,Express
+JRN1581,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2023-07-15,2023,July,Monsoon,05:30,07:17,107,Major Delay,Track waterlogging,1,774,Superfast
+JRN1582,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-10-20,2022,October,Winter,22:30,23:33,63,Major Delay,Technical snag,2,641,Superfast
+JRN1583,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2022-09-20,2022,September,Monsoon,22:30,00:44,134,Severe Delay,Signal failure due to rain,3,745,Superfast
+JRN1584,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2022-08-27,2022,August,Monsoon,16:15,18:33,138,Severe Delay,Flood affected route,6,774,Superfast
+JRN1585,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-04-16,2024,April,Summer,05:15,06:11,56,Moderate Delay,Signal failure,8,613,Superfast
+JRN1586,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2023-12-26,2023,December,Winter,12:45,13:11,26,Minor Delay,Dense fog signal restriction,4,525,Express
+JRN1587,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2023-11-17,2023,November,Winter,15:15,15:57,42,Moderate Delay,Cold wave speed restriction,3,670,Superfast
+JRN1588,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2023-01-22,2023,January,Winter,08:00,08:59,59,Moderate Delay,Track inspection,2,753,Express
+JRN1589,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-01-09,2024,January,Winter,15:30,15:43,13,Minor Delay,Technical snag,6,830,Superfast
+JRN1590,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2023-10-01,2023,October,Winter,05:45,06:41,56,Moderate Delay,Track inspection,3,589,Mail
+JRN1591,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2023-05-02,2023,May,Summer,10:45,11:30,45,Moderate Delay,Congestion at junction,1,698,Superfast
+JRN1592,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2023-10-19,2023,October,Winter,19:45,20:34,49,Moderate Delay,Technical snag,1,745,Express
+JRN1593,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2022-11-21,2022,November,Winter,08:30,08:57,27,Minor Delay,Track inspection,5,760,Mail
+JRN1594,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-03-10,2022,March,Summer,09:00,09:37,37,Moderate Delay,Late running connecting train,7,896,Superfast
+JRN1595,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2024-04-19,2024,April,Summer,14:45,14:53,8,Minor Delay,Engine technical issue,4,604,Express
+JRN1596,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-05-26,2023,May,Summer,11:15,11:22,7,Minor Delay,Engine technical issue,8,573,Express
+JRN1597,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2024-11-06,2024,November,Winter,23:30,00:16,46,Moderate Delay,Cold wave speed restriction,7,667,Express
+JRN1598,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2022-11-15,2022,November,Winter,05:15,05:15,0,On Time,No Delay,8,785,Express
+JRN1599,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-05-02,2023,May,Summer,23:30,00:44,74,Major Delay,Late running connecting train,8,596,Express
+JRN1600,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2022-12-17,2022,December,Winter,20:45,21:37,52,Moderate Delay,Technical snag,2,641,Superfast
+JRN1601,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-04-08,2022,April,Summer,23:45,01:59,134,Severe Delay,Signal failure,7,637,Mail
+JRN1602,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-04-02,2022,April,Summer,07:15,07:53,38,Moderate Delay,Track maintenance,2,802,Superfast
+JRN1603,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2022-02-02,2022,February,Winter,12:30,13:04,34,Moderate Delay,Technical snag,1,566,Superfast
+JRN1604,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2024-10-18,2024,October,Winter,04:30,05:09,39,Moderate Delay,Cold wave speed restriction,1,623,Superfast
+JRN1605,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2024-04-16,2024,April,Summer,17:30,17:30,0,On Time,No Delay,4,745,Superfast
+JRN1606,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-07-11,2022,July,Monsoon,11:15,12:45,90,Major Delay,Flood affected route,7,594,Superfast
+JRN1607,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-04-07,2022,April,Summer,05:30,06:13,43,Moderate Delay,Congestion at junction,2,798,Mail
+JRN1608,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-11-25,2022,November,Winter,05:45,06:09,24,Minor Delay,Cold wave speed restriction,1,651,Superfast
+JRN1609,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2022-07-26,2022,July,Monsoon,09:30,11:44,134,Severe Delay,Heavy rainfall on track,5,566,Superfast
+JRN1610,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2024-02-05,2024,February,Winter,06:45,07:45,60,Moderate Delay,Track inspection,8,612,Express
+JRN1611,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2022-04-10,2022,April,Summer,22:30,23:22,52,Moderate Delay,Track maintenance,3,708,Superfast
+JRN1612,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2024-07-04,2024,July,Monsoon,18:15,20:13,118,Major Delay,Heavy rainfall on track,7,877,Superfast
+JRN1613,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-10-25,2022,October,Winter,21:30,21:30,0,On Time,No Delay,3,887,Superfast
+JRN1614,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2024-03-13,2024,March,Summer,17:15,18:01,46,Moderate Delay,Engine technical issue,3,565,Express
+JRN1615,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2022-10-24,2022,October,Winter,13:15,13:24,9,Minor Delay,Cold wave speed restriction,2,620,Express
+JRN1616,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2024-05-26,2024,May,Summer,07:15,07:47,32,Moderate Delay,Track maintenance,6,682,Express
+JRN1617,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2023-01-12,2023,January,Winter,23:00,00:00,60,Moderate Delay,Dense fog signal restriction,1,785,Express
+JRN1618,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2022-01-03,2022,January,Winter,18:00,19:05,65,Major Delay,Cold wave speed restriction,8,877,Superfast
+JRN1619,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2022-11-26,2022,November,Winter,18:45,18:48,3,Minor Delay,Late running due to fog,5,667,Express
+JRN1620,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-03-11,2022,March,Summer,16:15,17:06,51,Moderate Delay,Signal failure,8,641,Superfast
+JRN1621,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2024-06-06,2024,June,Monsoon,14:45,16:54,129,Severe Delay,Flood affected route,5,811,Superfast
+JRN1622,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2023-01-26,2023,January,Winter,10:45,11:09,24,Minor Delay,Cold wave speed restriction,2,745,Express
+JRN1623,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2023-04-16,2023,April,Summer,09:00,10:19,79,Major Delay,Signal failure,7,753,Express
+JRN1624,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2022-05-20,2022,May,Summer,20:30,20:53,23,Minor Delay,Late running connecting train,5,811,Superfast
+JRN1625,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2023-05-05,2023,May,Summer,11:30,12:26,56,Moderate Delay,Engine technical issue,2,802,Superfast
+JRN1626,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2022-06-02,2022,June,Monsoon,04:45,06:26,101,Major Delay,Track waterlogging,1,887,Superfast
+JRN1627,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2022-09-17,2022,September,Monsoon,20:45,22:48,123,Severe Delay,Landslide near track,7,925,Superfast
+JRN1628,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2023-11-24,2023,November,Winter,13:15,14:09,54,Moderate Delay,Track inspection,6,737,Express
+JRN1629,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-07-17,2024,July,Monsoon,18:45,21:42,177,Severe Delay,Flood affected route,4,575,Superfast
+JRN1630,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2022-02-25,2022,February,Winter,20:15,20:42,27,Minor Delay,Cold wave speed restriction,7,698,Superfast
+JRN1631,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2024-09-06,2024,September,Monsoon,15:30,15:30,0,On Time,No Delay,2,874,Mail
+JRN1632,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2023-03-19,2023,March,Summer,06:30,07:21,51,Moderate Delay,Congestion at junction,6,510,Express
+JRN1633,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2024-01-17,2024,January,Winter,13:45,13:51,6,Minor Delay,Track inspection,4,859,Superfast
+JRN1634,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2023-10-03,2023,October,Winter,04:45,05:11,26,Minor Delay,Cold wave speed restriction,2,641,Superfast
+JRN1635,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-02-04,2024,February,Winter,23:45,23:58,13,Minor Delay,Dense fog signal restriction,3,612,Express
+JRN1636,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-09-07,2023,September,Monsoon,07:15,07:42,27,Minor Delay,Flood affected route,5,660,Superfast
+JRN1637,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-03-03,2024,March,Summer,15:30,16:14,44,Moderate Delay,Congestion at junction,4,478,Express
+JRN1638,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-03-27,2024,March,Summer,09:15,10:40,85,Major Delay,Engine technical issue,6,951,Mail
+JRN1639,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-03-09,2024,March,Summer,12:30,12:30,0,On Time,No Delay,7,689,Superfast
+JRN1640,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-10-11,2022,October,Winter,15:00,15:43,43,Moderate Delay,Cold wave speed restriction,1,651,Express
+JRN1641,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-05-19,2022,May,Summer,04:15,04:15,0,On Time,No Delay,6,575,Superfast
+JRN1642,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-01-19,2022,January,Winter,11:45,11:59,14,Minor Delay,Late running due to fog,3,541,Express
+JRN1643,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2024-08-06,2024,August,Monsoon,09:15,10:06,51,Moderate Delay,Landslide near track,5,737,Express
+JRN1644,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2022-12-23,2022,December,Winter,10:30,11:24,54,Moderate Delay,Technical snag,7,604,Express
+JRN1645,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2023-04-01,2023,April,Summer,09:30,10:14,44,Moderate Delay,Track maintenance,7,912,Mail
+JRN1646,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2024-09-07,2024,September,Monsoon,14:30,15:58,88,Major Delay,Track waterlogging,4,651,Superfast
+JRN1647,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-12-28,2024,December,Winter,18:30,19:25,55,Moderate Delay,Late running due to fog,8,745,Superfast
+JRN1648,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2023-01-28,2023,January,Winter,19:15,19:19,4,Minor Delay,Cold wave speed restriction,2,651,Express
+JRN1649,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2023-08-21,2023,August,Monsoon,11:15,12:45,90,Major Delay,Signal failure due to rain,5,745,Superfast
+JRN1650,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2022-05-15,2022,May,Summer,23:15,23:48,33,Moderate Delay,Congestion at junction,7,502,Express
+JRN1651,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2024-06-01,2024,June,Monsoon,11:00,12:20,80,Major Delay,Track waterlogging,8,580,Express
+JRN1652,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2022-07-20,2022,July,Monsoon,21:00,21:59,59,Moderate Delay,Track waterlogging,5,868,Superfast
+JRN1653,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-03-20,2022,March,Summer,13:00,13:03,3,Minor Delay,Late running connecting train,5,840,Superfast
+JRN1654,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2024-08-19,2024,August,Monsoon,06:00,08:12,132,Severe Delay,Flood affected route,2,764,Superfast
+JRN1655,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2023-03-25,2023,March,Summer,12:15,12:24,9,Minor Delay,Late running connecting train,7,855,Mail
+JRN1656,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2023-10-11,2023,October,Winter,17:30,17:30,0,On Time,No Delay,7,896,Superfast
+JRN1657,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2024-09-18,2024,September,Monsoon,05:15,07:51,156,Severe Delay,Signal failure due to rain,2,868,Superfast
+JRN1658,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2024-05-15,2024,May,Summer,21:15,21:15,0,On Time,No Delay,1,769,Express
+JRN1659,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2023-06-18,2023,June,Monsoon,17:45,19:51,126,Severe Delay,Track waterlogging,7,934,Superfast
+JRN1660,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2024-09-10,2024,September,Monsoon,16:45,17:59,74,Major Delay,Heavy rainfall on track,8,502,Express
+JRN1661,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2024-04-14,2024,April,Summer,19:30,19:30,0,On Time,No Delay,7,689,Superfast
+JRN1662,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2024-02-08,2024,February,Winter,08:15,08:15,0,On Time,No Delay,4,502,Express
+JRN1663,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2023-10-18,2023,October,Winter,10:30,11:23,53,Moderate Delay,Technical snag,5,599,Mail
+JRN1664,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2022-06-21,2022,June,Monsoon,04:15,05:18,63,Major Delay,Track waterlogging,4,518,Express
+JRN1665,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2023-10-13,2023,October,Winter,21:45,22:10,25,Minor Delay,Technical snag,6,830,Superfast
+JRN1666,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2022-05-13,2022,May,Summer,12:15,12:15,0,On Time,No Delay,8,915,Superfast
+JRN1667,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2022-09-04,2022,September,Monsoon,09:30,12:35,185,Severe Delay,Flood affected route,5,589,Mail
+JRN1668,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2024-05-17,2024,May,Summer,18:30,18:56,26,Minor Delay,Late running connecting train,8,675,Express
+JRN1669,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2024-06-12,2024,June,Monsoon,07:00,09:19,139,Severe Delay,Heavy rainfall on track,5,670,Superfast
+JRN1670,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-04-06,2022,April,Summer,20:15,20:43,28,Minor Delay,Signal failure,2,811,Superfast
+JRN1671,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2024-06-20,2024,June,Monsoon,09:45,11:32,107,Major Delay,Flood affected route,7,821,Superfast
+JRN1672,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2024-01-11,2024,January,Winter,08:15,09:12,57,Moderate Delay,Technical snag,4,502,Express
+JRN1673,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2023-06-15,2023,June,Monsoon,05:00,07:12,132,Severe Delay,Track waterlogging,7,594,Superfast
+JRN1674,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-11-25,2023,November,Winter,21:30,22:10,40,Moderate Delay,Cold wave speed restriction,2,612,Express
+JRN1675,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2022-06-25,2022,June,Monsoon,10:00,11:32,92,Major Delay,Heavy rainfall on track,6,698,Superfast
+JRN1676,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2023-02-07,2023,February,Winter,04:45,04:45,0,On Time,No Delay,1,533,Express
+JRN1677,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2024-09-20,2024,September,Monsoon,15:15,18:17,182,Severe Delay,Heavy rainfall on track,7,726,Superfast
+JRN1678,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2024-03-28,2024,March,Summer,13:15,13:15,0,On Time,No Delay,2,717,Superfast
+JRN1679,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2024-01-21,2024,January,Winter,09:30,10:46,76,Major Delay,Late running due to fog,2,549,Express
+JRN1680,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2022-06-04,2022,June,Monsoon,05:15,06:18,63,Major Delay,Landslide near track,4,594,Superfast
+JRN1681,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-10-27,2023,October,Winter,14:45,15:11,26,Minor Delay,Dense fog signal restriction,6,682,Express
+JRN1682,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2022-09-03,2022,September,Monsoon,13:00,13:00,0,On Time,No Delay,5,915,Superfast
+JRN1683,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2024-06-10,2024,June,Monsoon,20:30,21:57,87,Major Delay,Track waterlogging,8,821,Superfast
+JRN1684,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2023-12-05,2023,December,Winter,14:00,14:22,22,Minor Delay,Late running due to fog,8,774,Superfast
+JRN1685,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-01-07,2024,January,Winter,05:15,06:31,76,Major Delay,Dense fog signal restriction,8,646,Mail
+JRN1686,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2024-08-12,2024,August,Monsoon,19:45,22:09,144,Severe Delay,Heavy rainfall on track,4,612,Express
+JRN1687,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-09-01,2023,September,Monsoon,14:30,17:10,160,Severe Delay,Signal failure due to rain,5,525,Express
+JRN1688,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2024-04-13,2024,April,Summer,18:30,19:15,45,Moderate Delay,Engine technical issue,4,830,Superfast
+JRN1689,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2022-11-13,2022,November,Winter,18:45,18:45,0,On Time,No Delay,6,714,Express
+JRN1690,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2022-08-11,2022,August,Monsoon,11:00,13:08,128,Severe Delay,Signal failure due to rain,4,925,Superfast
+JRN1691,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-11-02,2022,November,Winter,15:45,16:33,48,Moderate Delay,Cold wave speed restriction,3,620,Express
+JRN1692,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2024-07-17,2024,July,Monsoon,10:45,11:40,55,Moderate Delay,Landslide near track,6,736,Superfast
+JRN1693,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2024-12-18,2024,December,Winter,04:00,04:44,44,Moderate Delay,Track inspection,8,934,Superfast
+JRN1694,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2023-04-28,2023,April,Summer,09:30,09:30,0,On Time,No Delay,6,566,Superfast
+JRN1695,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2022-04-18,2022,April,Summer,22:15,22:18,3,Minor Delay,Late running connecting train,6,745,Superfast
+JRN1696,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-04-26,2024,April,Summer,08:30,10:16,106,Major Delay,Late running connecting train,5,684,Mail
+JRN1697,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2023-01-13,2023,January,Winter,11:15,11:19,4,Minor Delay,Late running due to fog,3,906,Superfast
+JRN1698,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2022-08-27,2022,August,Monsoon,04:45,05:17,32,Moderate Delay,Heavy rainfall on track,5,594,Superfast
+JRN1699,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2023-05-01,2023,May,Summer,12:30,14:02,92,Major Delay,Late running connecting train,4,789,Mail
+JRN1700,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2022-07-09,2022,July,Monsoon,22:00,00:21,141,Severe Delay,Flood affected route,1,792,Superfast
+JRN1701,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2022-05-10,2022,May,Summer,22:15,22:15,0,On Time,No Delay,6,660,Superfast
+JRN1702,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-10-14,2024,October,Winter,21:15,23:10,115,Major Delay,Technical snag,8,931,Mail
+JRN1703,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2024-08-20,2024,August,Monsoon,23:00,23:56,56,Moderate Delay,Signal failure due to rain,5,717,Superfast
+JRN1704,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-09-08,2024,September,Monsoon,07:30,08:29,59,Moderate Delay,Heavy rainfall on track,7,859,Superfast
+JRN1705,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2023-08-06,2023,August,Monsoon,15:45,18:08,143,Severe Delay,Signal failure due to rain,1,679,Superfast
+JRN1706,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-03-15,2024,March,Summer,15:00,15:00,0,On Time,No Delay,3,821,Superfast
+JRN1707,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2024-01-10,2024,January,Winter,08:00,08:00,0,On Time,No Delay,5,802,Superfast
+JRN1708,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2023-06-04,2023,June,Monsoon,08:00,11:38,218,Severe Delay,Signal failure due to rain,8,761,Express
+JRN1709,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-08-09,2022,August,Monsoon,05:00,07:45,165,Severe Delay,Flood affected route,6,941,Mail
+JRN1710,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2024-03-15,2024,March,Summer,21:00,21:48,48,Moderate Delay,Engine technical issue,4,670,Superfast
+JRN1711,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2022-02-09,2022,February,Winter,17:45,18:36,51,Moderate Delay,Technical snag,2,573,Express
+JRN1712,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-09-08,2023,September,Monsoon,11:30,12:51,81,Major Delay,Signal failure due to rain,7,494,Express
+JRN1713,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2024-02-16,2024,February,Winter,08:45,09:07,22,Minor Delay,Dense fog signal restriction,4,887,Superfast
+JRN1714,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2022-04-14,2022,April,Summer,20:15,21:02,47,Moderate Delay,Late running connecting train,6,689,Superfast
+JRN1715,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2024-10-11,2024,October,Winter,06:45,06:59,14,Minor Delay,Late running due to fog,3,764,Superfast
+JRN1716,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2024-10-18,2024,October,Winter,15:30,16:27,57,Moderate Delay,Dense fog signal restriction,8,651,Express
+JRN1717,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-09-27,2024,September,Monsoon,14:00,15:50,110,Major Delay,Landslide near track,5,821,Superfast
+JRN1718,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2023-04-02,2023,April,Summer,23:15,23:15,0,On Time,No Delay,4,659,Express
+JRN1719,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2023-07-15,2023,July,Monsoon,21:15,23:03,108,Major Delay,Flood affected route,6,925,Superfast
+JRN1720,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2024-05-24,2024,May,Summer,21:15,22:07,52,Moderate Delay,Signal failure,5,906,Superfast
+JRN1721,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2023-07-13,2023,July,Monsoon,11:45,12:58,73,Major Delay,Signal failure due to rain,3,755,Superfast
+JRN1722,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2023-07-03,2023,July,Monsoon,08:15,09:27,72,Major Delay,Track waterlogging,8,785,Express
+JRN1723,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-08-15,2022,August,Monsoon,04:00,04:51,51,Moderate Delay,Track waterlogging,7,906,Superfast
+JRN1724,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-03-09,2024,March,Summer,20:30,21:24,54,Moderate Delay,Congestion at junction,7,730,Express
+JRN1725,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-07-13,2022,July,Monsoon,16:30,19:55,205,Severe Delay,Signal failure due to rain,1,675,Express
+JRN1726,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-04-19,2024,April,Summer,15:30,15:30,0,On Time,No Delay,1,585,Superfast
+JRN1727,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2024-05-18,2024,May,Summer,22:30,22:30,0,On Time,No Delay,1,830,Superfast
+JRN1728,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-11-13,2022,November,Winter,14:15,14:16,1,Minor Delay,Dense fog signal restriction,4,580,Express
+JRN1729,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2024-05-17,2024,May,Summer,23:15,23:15,0,On Time,No Delay,3,541,Express
+JRN1730,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2023-12-19,2023,December,Winter,10:15,10:28,13,Minor Delay,Late running due to fog,6,533,Express
+JRN1731,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2023-08-24,2023,August,Monsoon,18:00,18:00,0,On Time,No Delay,7,651,Superfast
+JRN1732,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-03-17,2023,March,Summer,15:45,16:44,59,Moderate Delay,Engine technical issue,7,868,Superfast
+JRN1733,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2023-09-10,2023,September,Monsoon,06:00,09:47,227,Severe Delay,Flood affected route,8,874,Mail
+JRN1734,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2023-11-08,2023,November,Winter,06:15,06:24,9,Minor Delay,Dense fog signal restriction,4,708,Superfast
+JRN1735,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-06-07,2024,June,Monsoon,12:00,13:06,66,Major Delay,Flood affected route,8,774,Superfast
+JRN1736,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-08-22,2022,August,Monsoon,12:15,15:17,182,Severe Delay,Flood affected route,6,665,Mail
+JRN1737,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2023-12-20,2023,December,Winter,21:00,22:16,76,Major Delay,Dense fog signal restriction,4,761,Express
+JRN1738,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2024-09-13,2024,September,Monsoon,17:45,17:45,0,On Time,No Delay,2,628,Express
+JRN1739,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-11-08,2024,November,Winter,14:45,14:50,5,Minor Delay,Late running due to fog,4,783,Superfast
+JRN1740,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2023-12-24,2023,December,Winter,22:15,23:05,50,Moderate Delay,Late running due to fog,8,698,Superfast
+JRN1741,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-06-18,2022,June,Monsoon,22:00,23:09,69,Major Delay,Flood affected route,8,651,Superfast
+JRN1742,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2022-10-10,2022,October,Winter,21:15,21:15,0,On Time,No Delay,2,580,Express
+JRN1743,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2024-02-13,2024,February,Winter,15:15,15:22,7,Minor Delay,Late running due to fog,4,628,Express
+JRN1744,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-09-04,2022,September,Monsoon,10:15,11:54,99,Major Delay,Landslide near track,2,613,Superfast
+JRN1745,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2023-03-24,2023,March,Summer,05:45,07:38,113,Major Delay,Signal failure,7,903,Mail
+JRN1746,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-10-15,2022,October,Winter,23:45,23:45,0,On Time,No Delay,6,874,Mail
+JRN1747,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2023-03-05,2023,March,Summer,20:30,21:19,49,Moderate Delay,Engine technical issue,3,643,Express
+JRN1748,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2024-01-06,2024,January,Winter,21:45,22:53,68,Major Delay,Track inspection,1,830,Superfast
+JRN1749,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2023-05-03,2023,May,Summer,15:00,16:08,68,Major Delay,Signal failure,2,613,Superfast
+JRN1750,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2022-07-28,2022,July,Monsoon,12:30,14:15,105,Major Delay,Signal failure due to rain,1,690,Express
+JRN1751,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2023-11-04,2023,November,Winter,15:15,16:13,58,Moderate Delay,Late running due to fog,5,764,Superfast
+JRN1752,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-10-23,2024,October,Winter,06:45,07:40,55,Moderate Delay,Track inspection,3,675,Mail
+JRN1753,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2022-10-05,2022,October,Winter,05:00,05:20,20,Minor Delay,Track inspection,8,533,Express
+JRN1754,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2023-12-15,2023,December,Winter,09:30,09:44,14,Minor Delay,Technical snag,6,618,Mail
+JRN1755,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2024-10-10,2024,October,Winter,05:45,05:45,0,On Time,No Delay,4,755,Superfast
+JRN1756,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2023-09-03,2023,September,Monsoon,22:15,01:10,175,Severe Delay,Flood affected route,8,618,Mail
+JRN1757,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-11-12,2024,November,Winter,15:30,15:37,7,Minor Delay,Dense fog signal restriction,5,708,Superfast
+JRN1758,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2022-03-14,2022,March,Summer,13:45,14:36,51,Moderate Delay,Track maintenance,8,573,Express
+JRN1759,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2022-10-14,2022,October,Winter,10:30,11:04,34,Moderate Delay,Technical snag,4,632,Superfast
+JRN1760,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2024-04-06,2024,April,Summer,22:45,22:45,0,On Time,No Delay,3,808,Mail
+JRN1761,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2022-07-15,2022,July,Monsoon,15:00,16:14,74,Major Delay,Track waterlogging,4,494,Express
+JRN1762,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2023-11-10,2023,November,Winter,23:30,23:30,0,On Time,No Delay,8,737,Express
+JRN1763,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2023-01-06,2023,January,Winter,18:45,18:59,14,Minor Delay,Track inspection,6,944,Superfast
+JRN1764,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-08-26,2022,August,Monsoon,15:30,16:58,88,Major Delay,Landslide near track,4,708,Superfast
+JRN1765,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2023-10-17,2023,October,Winter,14:30,14:54,24,Minor Delay,Cold wave speed restriction,4,690,Express
+JRN1766,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2024-12-11,2024,December,Winter,16:15,16:15,0,On Time,No Delay,5,944,Superfast
+JRN1767,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-10-26,2024,October,Winter,04:15,04:43,28,Minor Delay,Technical snag,5,896,Superfast
+JRN1768,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2022-10-10,2022,October,Winter,20:30,21:46,76,Major Delay,Cold wave speed restriction,5,565,Express
+JRN1769,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2024-03-10,2024,March,Summer,19:45,20:30,45,Moderate Delay,Signal failure,8,698,Superfast
+JRN1770,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2023-09-28,2023,September,Monsoon,08:00,08:00,0,On Time,No Delay,2,557,Express
+JRN1771,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-10-01,2022,October,Winter,05:30,06:45,75,Major Delay,Technical snag,2,604,Superfast
+JRN1772,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-09-11,2024,September,Monsoon,10:45,13:22,157,Severe Delay,Signal failure due to rain,2,717,Superfast
+JRN1773,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2023-01-27,2023,January,Winter,07:00,07:00,0,On Time,No Delay,2,944,Superfast
+JRN1774,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2024-06-15,2024,June,Monsoon,23:00,00:36,96,Major Delay,Flood affected route,1,755,Superfast
+JRN1775,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-09-24,2022,September,Monsoon,20:30,21:11,41,Moderate Delay,Track waterlogging,1,830,Superfast
+JRN1776,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2022-10-03,2022,October,Winter,04:15,04:15,0,On Time,No Delay,1,934,Superfast
+JRN1777,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2024-09-23,2024,September,Monsoon,17:45,20:34,169,Severe Delay,Heavy rainfall on track,8,643,Express
+JRN1778,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2022-06-28,2022,June,Monsoon,22:00,01:04,184,Severe Delay,Signal failure due to rain,3,635,Express
+JRN1779,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2024-03-17,2024,March,Summer,08:30,09:01,31,Moderate Delay,Congestion at junction,4,585,Superfast
+JRN1780,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2022-05-24,2022,May,Summer,07:00,08:27,87,Major Delay,Signal failure,5,682,Express
+JRN1781,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2024-12-03,2024,December,Winter,20:00,20:33,33,Moderate Delay,Late running due to fog,2,849,Superfast
+JRN1782,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2023-09-23,2023,September,Monsoon,20:15,22:51,156,Severe Delay,Flood affected route,7,761,Express
+JRN1783,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2023-04-08,2023,April,Summer,14:30,15:14,44,Moderate Delay,Signal failure,8,925,Superfast
+JRN1784,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2023-11-26,2023,November,Winter,20:15,21:11,56,Moderate Delay,Cold wave speed restriction,1,632,Superfast
+JRN1785,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2022-07-21,2022,July,Monsoon,16:30,16:30,0,On Time,No Delay,1,840,Superfast
+JRN1786,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2022-09-07,2022,September,Monsoon,19:45,21:57,132,Severe Delay,Track waterlogging,1,588,Express
+JRN1787,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2024-02-03,2024,February,Winter,23:15,00:34,79,Major Delay,Technical snag,1,830,Superfast
+JRN1788,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-08-27,2022,August,Monsoon,10:45,12:51,126,Severe Delay,Flood affected route,2,915,Superfast
+JRN1789,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2023-04-28,2023,April,Summer,20:45,22:06,81,Major Delay,Track maintenance,3,951,Mail
+JRN1790,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2023-02-16,2023,February,Winter,14:15,14:39,24,Minor Delay,Cold wave speed restriction,4,785,Express
+JRN1791,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2024-03-12,2024,March,Summer,16:30,16:30,0,On Time,No Delay,1,821,Superfast
+JRN1792,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2023-08-18,2023,August,Monsoon,21:30,23:16,106,Major Delay,Track waterlogging,1,925,Superfast
+JRN1793,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2024-01-25,2024,January,Winter,23:00,23:26,26,Minor Delay,Late running due to fog,1,736,Superfast
+JRN1794,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-07-25,2024,July,Monsoon,23:00,01:42,162,Severe Delay,Track waterlogging,6,510,Express
+JRN1795,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2023-01-11,2023,January,Winter,05:15,05:24,9,Minor Delay,Cold wave speed restriction,1,830,Superfast
+JRN1796,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-12-11,2024,December,Winter,09:45,09:52,7,Minor Delay,Dense fog signal restriction,4,708,Superfast
+JRN1797,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-06-14,2024,June,Monsoon,12:45,14:45,120,Major Delay,Flood affected route,1,675,Mail
+JRN1798,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2022-11-21,2022,November,Winter,18:45,18:45,0,On Time,No Delay,2,769,Express
+JRN1799,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-09-26,2023,September,Monsoon,23:30,00:18,48,Moderate Delay,Signal failure due to rain,8,575,Superfast
+JRN1800,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2022-05-01,2022,May,Summer,19:15,19:15,0,On Time,No Delay,4,745,Express
+JRN1801,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2023-03-09,2023,March,Summer,22:00,23:39,99,Major Delay,Congestion at junction,1,698,Superfast
+JRN1802,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2024-03-22,2024,March,Summer,17:15,17:15,0,On Time,No Delay,7,641,Superfast
+JRN1803,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-09-07,2022,September,Monsoon,07:15,07:15,0,On Time,No Delay,2,887,Superfast
+JRN1804,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-01-07,2024,January,Winter,06:45,07:50,65,Major Delay,Dense fog signal restriction,4,951,Mail
+JRN1805,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2022-09-21,2022,September,Monsoon,20:30,22:50,140,Severe Delay,Landslide near track,1,613,Superfast
+JRN1806,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2022-02-13,2022,February,Winter,07:45,08:15,30,Minor Delay,Track inspection,2,651,Superfast
+JRN1807,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2024-11-15,2024,November,Winter,22:15,22:15,0,On Time,No Delay,8,525,Express
+JRN1808,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2022-12-03,2022,December,Winter,08:30,08:58,28,Minor Delay,Technical snag,5,840,Superfast
+JRN1809,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2024-01-14,2024,January,Winter,09:45,10:26,41,Moderate Delay,Track inspection,7,706,Express
+JRN1810,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2022-04-01,2022,April,Summer,06:45,07:57,72,Major Delay,Track maintenance,8,717,Superfast
+JRN1811,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-09-11,2024,September,Monsoon,21:15,23:52,157,Severe Delay,Flood affected route,7,859,Superfast
+JRN1812,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2023-05-28,2023,May,Summer,08:45,09:45,60,Moderate Delay,Signal failure,5,525,Express
+JRN1813,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2023-10-24,2023,October,Winter,17:30,18:02,32,Moderate Delay,Late running due to fog,1,660,Superfast
+JRN1814,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2024-04-28,2024,April,Summer,19:30,20:58,88,Major Delay,Late running connecting train,5,690,Express
+JRN1815,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2024-09-18,2024,September,Monsoon,21:45,22:55,70,Major Delay,Flood affected route,8,573,Express
+JRN1816,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2024-10-14,2024,October,Winter,16:30,17:02,32,Moderate Delay,Late running due to fog,2,690,Express
+JRN1817,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2023-10-25,2023,October,Winter,11:00,11:08,8,Minor Delay,Track inspection,3,604,Express
+JRN1818,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-11-07,2022,November,Winter,19:45,20:09,24,Minor Delay,Track inspection,3,944,Superfast
+JRN1819,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2023-08-02,2023,August,Monsoon,22:30,22:30,0,On Time,No Delay,1,575,Superfast
+JRN1820,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2023-01-10,2023,January,Winter,08:30,09:16,46,Moderate Delay,Cold wave speed restriction,7,596,Express
+JRN1821,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2024-04-05,2024,April,Summer,10:30,11:07,37,Moderate Delay,Track maintenance,3,789,Mail
+JRN1822,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2024-02-27,2024,February,Winter,13:30,13:30,0,On Time,No Delay,2,726,Superfast
+JRN1823,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2023-01-22,2023,January,Winter,21:00,22:13,73,Major Delay,Dense fog signal restriction,4,670,Superfast
+JRN1824,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-04-15,2024,April,Summer,08:30,08:30,0,On Time,No Delay,1,840,Superfast
+JRN1825,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2023-01-11,2023,January,Winter,12:30,12:43,13,Minor Delay,Late running due to fog,6,708,Superfast
+JRN1826,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-12-27,2024,December,Winter,14:45,14:46,1,Minor Delay,Track inspection,7,745,Superfast
+JRN1827,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2024-02-18,2024,February,Winter,18:30,19:19,49,Moderate Delay,Track inspection,3,777,Express
+JRN1828,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2022-10-02,2022,October,Winter,20:45,20:59,14,Minor Delay,Cold wave speed restriction,1,877,Superfast
+JRN1829,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2023-07-09,2023,July,Monsoon,19:00,19:54,54,Moderate Delay,Signal failure due to rain,5,859,Superfast
+JRN1830,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-02-22,2024,February,Winter,22:30,22:30,0,On Time,No Delay,2,783,Superfast
+JRN1831,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-04-09,2024,April,Summer,18:00,18:10,10,Minor Delay,Track maintenance,4,840,Superfast
+JRN1832,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2024-05-19,2024,May,Summer,10:15,11:15,60,Moderate Delay,Congestion at junction,8,877,Superfast
+JRN1833,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-10-22,2024,October,Winter,13:15,14:01,46,Moderate Delay,Dense fog signal restriction,7,761,Express
+JRN1834,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2023-11-17,2023,November,Winter,06:15,06:38,23,Minor Delay,Cold wave speed restriction,4,730,Express
+JRN1835,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2024-03-03,2024,March,Summer,07:00,07:00,0,On Time,No Delay,7,667,Express
+JRN1836,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-05-09,2023,May,Summer,06:15,06:41,26,Minor Delay,Signal failure,5,785,Express
+JRN1837,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-02-02,2024,February,Winter,16:00,16:35,35,Moderate Delay,Technical snag,1,764,Superfast
+JRN1838,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2023-07-22,2023,July,Monsoon,05:00,07:59,179,Severe Delay,Signal failure due to rain,1,893,Mail
+JRN1839,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2023-05-22,2023,May,Summer,13:00,14:34,94,Major Delay,Track maintenance,7,612,Express
+JRN1840,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2022-07-11,2022,July,Monsoon,22:45,23:13,28,Minor Delay,Landslide near track,5,934,Superfast
+JRN1841,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2022-01-26,2022,January,Winter,20:15,20:50,35,Moderate Delay,Dense fog signal restriction,1,785,Express
+JRN1842,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-04-10,2022,April,Summer,11:45,12:58,73,Major Delay,Late running connecting train,8,675,Mail
+JRN1843,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2024-06-14,2024,June,Monsoon,18:30,18:53,23,Minor Delay,Landslide near track,3,726,Superfast
+JRN1844,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2023-04-10,2023,April,Summer,14:30,15:04,34,Moderate Delay,Late running connecting train,3,783,Superfast
+JRN1845,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2024-10-25,2024,October,Winter,06:15,06:54,39,Moderate Delay,Track inspection,7,755,Superfast
+JRN1846,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2022-03-25,2022,March,Summer,12:00,12:52,52,Moderate Delay,Congestion at junction,6,726,Superfast
+JRN1847,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2023-08-22,2023,August,Monsoon,16:00,17:32,92,Major Delay,Landslide near track,4,682,Express
+JRN1848,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2022-04-10,2022,April,Summer,09:45,10:39,54,Moderate Delay,Congestion at junction,4,868,Superfast
+JRN1849,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2023-04-26,2023,April,Summer,17:00,18:38,98,Major Delay,Congestion at junction,2,774,Superfast
+JRN1850,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-12-09,2024,December,Winter,16:45,16:45,0,On Time,No Delay,2,951,Mail
+JRN1851,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2023-08-02,2023,August,Monsoon,16:15,16:15,0,On Time,No Delay,5,627,Mail
+JRN1852,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2022-08-14,2022,August,Monsoon,23:00,00:42,102,Major Delay,Heavy rainfall on track,7,802,Superfast
+JRN1853,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2023-01-19,2023,January,Winter,20:30,20:30,0,On Time,No Delay,8,717,Superfast
+JRN1854,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2022-04-01,2022,April,Summer,08:15,09:10,55,Moderate Delay,Congestion at junction,5,730,Express
+JRN1855,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2024-03-03,2024,March,Summer,23:45,01:14,89,Major Delay,Signal failure,3,755,Superfast
+JRN1856,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-01-03,2022,January,Winter,19:15,19:54,39,Moderate Delay,Dense fog signal restriction,2,906,Superfast
+JRN1857,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-06-08,2022,June,Monsoon,04:15,06:03,108,Major Delay,Heavy rainfall on track,7,518,Express
+JRN1858,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2022-08-21,2022,August,Monsoon,18:30,20:33,123,Severe Delay,Heavy rainfall on track,2,627,Mail
+JRN1859,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2024-06-15,2024,June,Monsoon,17:15,17:15,0,On Time,No Delay,4,859,Superfast
+JRN1860,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2022-08-10,2022,August,Monsoon,11:15,11:21,6,Minor Delay,Track waterlogging,3,764,Superfast
+JRN1861,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-10-05,2022,October,Winter,10:15,10:15,0,On Time,No Delay,6,836,Mail
+JRN1862,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-10-21,2022,October,Winter,17:00,18:25,85,Major Delay,Dense fog signal restriction,4,770,Mail
+JRN1863,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2023-01-19,2023,January,Winter,07:00,07:00,0,On Time,No Delay,5,651,Superfast
+JRN1864,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2024-05-11,2024,May,Summer,12:00,12:23,23,Minor Delay,Track maintenance,3,620,Express
+JRN1865,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2023-07-21,2023,July,Monsoon,19:15,20:07,52,Moderate Delay,Track waterlogging,6,518,Express
+JRN1866,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2024-06-03,2024,June,Monsoon,21:30,22:10,40,Moderate Delay,Heavy rainfall on track,6,632,Superfast
+JRN1867,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2022-02-06,2022,February,Winter,06:30,07:12,42,Moderate Delay,Cold wave speed restriction,1,925,Superfast
+JRN1868,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2022-03-25,2022,March,Summer,13:15,14:23,68,Major Delay,Track maintenance,3,566,Superfast
+JRN1869,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2023-06-26,2023,June,Monsoon,17:15,17:15,0,On Time,No Delay,8,789,Mail
+JRN1870,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2023-04-11,2023,April,Summer,07:15,07:26,11,Minor Delay,Track maintenance,1,737,Express
+JRN1871,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-12-21,2022,December,Winter,06:15,06:23,8,Minor Delay,Track inspection,1,612,Express
+JRN1872,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-11-14,2024,November,Winter,22:15,22:39,24,Minor Delay,Track inspection,6,698,Express
+JRN1873,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2023-01-03,2023,January,Winter,17:30,18:19,49,Moderate Delay,Late running due to fog,3,643,Express
+JRN1874,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2023-02-01,2023,February,Winter,11:15,11:15,0,On Time,No Delay,2,682,Express
+JRN1875,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2023-11-15,2023,November,Winter,09:45,10:22,37,Moderate Delay,Dense fog signal restriction,6,840,Superfast
+JRN1876,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2022-10-25,2022,October,Winter,19:30,20:27,57,Moderate Delay,Cold wave speed restriction,1,643,Express
+JRN1877,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2024-02-19,2024,February,Winter,11:15,11:54,39,Moderate Delay,Technical snag,2,632,Superfast
+JRN1878,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2023-12-11,2023,December,Winter,09:30,10:44,74,Major Delay,Cold wave speed restriction,1,730,Express
+JRN1879,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-10-08,2022,October,Winter,16:30,17:19,49,Moderate Delay,Track inspection,7,643,Express
+JRN1880,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2023-08-17,2023,August,Monsoon,12:15,12:15,0,On Time,No Delay,6,682,Express
+JRN1881,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2024-03-06,2024,March,Summer,05:45,05:45,0,On Time,No Delay,8,660,Superfast
+JRN1882,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2023-07-05,2023,July,Monsoon,15:30,18:18,168,Severe Delay,Flood affected route,1,706,Express
+JRN1883,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2024-10-14,2024,October,Winter,12:15,12:52,37,Moderate Delay,Late running due to fog,5,690,Express
+JRN1884,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-11-28,2024,November,Winter,23:45,23:45,0,On Time,No Delay,7,779,Mail
+JRN1885,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2023-04-01,2023,April,Summer,18:30,18:55,25,Minor Delay,Track maintenance,5,604,Express
+JRN1886,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2023-02-07,2023,February,Winter,22:15,22:34,19,Minor Delay,Late running due to fog,8,566,Superfast
+JRN1887,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2024-04-19,2024,April,Summer,17:00,17:18,18,Minor Delay,Track maintenance,1,585,Superfast
+JRN1888,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2024-08-22,2024,August,Monsoon,14:30,15:29,59,Moderate Delay,Flood affected route,8,774,Superfast
+JRN1889,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2023-09-28,2023,September,Monsoon,22:45,00:40,115,Major Delay,Flood affected route,1,596,Express
+JRN1890,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2023-07-10,2023,July,Monsoon,21:30,22:40,70,Major Delay,Track waterlogging,4,713,Mail
+JRN1891,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-01-10,2024,January,Winter,17:30,18:27,57,Moderate Delay,Dense fog signal restriction,8,789,Mail
+JRN1892,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2024-11-21,2024,November,Winter,23:30,00:00,30,Minor Delay,Cold wave speed restriction,8,811,Superfast
+JRN1893,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-10-06,2022,October,Winter,17:30,17:38,8,Minor Delay,Cold wave speed restriction,2,628,Express
+JRN1894,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2022-01-06,2022,January,Winter,09:30,09:30,0,On Time,No Delay,7,580,Mail
+JRN1895,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2023-08-02,2023,August,Monsoon,19:00,19:59,59,Moderate Delay,Heavy rainfall on track,8,877,Superfast
+JRN1896,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2023-07-15,2023,July,Monsoon,16:30,18:59,149,Severe Delay,Flood affected route,5,811,Superfast
+JRN1897,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2024-09-06,2024,September,Monsoon,14:30,16:44,134,Severe Delay,Flood affected route,4,896,Superfast
+JRN1898,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2022-03-10,2022,March,Summer,15:30,16:11,41,Moderate Delay,Engine technical issue,4,533,Express
+JRN1899,12415,Pink City Express,New Delhi,Jaipur Jn,Northern,308,2022-12-10,2022,December,Winter,11:30,12:33,63,Major Delay,Cold wave speed restriction,7,628,Express
+JRN1900,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2022-09-04,2022,September,Monsoon,17:45,18:50,65,Major Delay,Flood affected route,3,682,Express
+JRN1901,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-01-28,2024,January,Winter,19:15,20:53,98,Major Delay,Cold wave speed restriction,7,789,Mail
+JRN1902,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2024-10-08,2024,October,Winter,13:45,13:56,11,Minor Delay,Track inspection,6,698,Superfast
+JRN1903,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2024-06-12,2024,June,Monsoon,20:45,20:45,0,On Time,No Delay,3,689,Superfast
+JRN1904,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-06-18,2022,June,Monsoon,17:00,17:00,0,On Time,No Delay,5,830,Superfast
+JRN1905,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2024-01-07,2024,January,Winter,22:45,23:00,15,Minor Delay,Technical snag,5,533,Express
+JRN1906,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2024-04-14,2024,April,Summer,13:00,13:40,40,Moderate Delay,Late running connecting train,1,646,Mail
+JRN1907,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2022-12-07,2022,December,Winter,04:30,04:39,9,Minor Delay,Cold wave speed restriction,4,632,Superfast
+JRN1908,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2023-02-24,2023,February,Winter,18:15,18:35,20,Minor Delay,Track inspection,6,660,Superfast
+JRN1909,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2024-04-04,2024,April,Summer,13:30,14:37,67,Major Delay,Late running connecting train,8,575,Superfast
+JRN1910,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2024-06-07,2024,June,Monsoon,12:15,13:35,80,Major Delay,Signal failure due to rain,6,632,Superfast
+JRN1911,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2023-04-28,2023,April,Summer,15:45,15:52,7,Minor Delay,Engine technical issue,4,566,Superfast
+JRN1912,12123,Deccan Queen,Mumbai CST,Pune Jn,Central,192,2023-03-21,2023,March,Summer,07:45,07:45,0,On Time,No Delay,5,670,Superfast
+JRN1913,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-09-24,2022,September,Monsoon,16:15,18:05,110,Major Delay,Track waterlogging,4,884,Mail
+JRN1914,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-03-26,2022,March,Summer,12:00,13:30,90,Major Delay,Engine technical issue,7,575,Superfast
+JRN1915,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2023-03-26,2023,March,Summer,11:45,12:51,66,Major Delay,Late running connecting train,6,628,Express
+JRN1916,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2023-07-03,2023,July,Monsoon,21:15,22:08,53,Moderate Delay,Flood affected route,8,726,Superfast
+JRN1917,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2024-11-20,2024,November,Winter,07:30,08:03,33,Moderate Delay,Technical snag,3,690,Express
+JRN1918,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2022-09-03,2022,September,Monsoon,14:45,15:23,38,Moderate Delay,Heavy rainfall on track,8,708,Superfast
+JRN1919,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2024-02-28,2024,February,Winter,13:45,14:38,53,Moderate Delay,Cold wave speed restriction,5,774,Superfast
+JRN1920,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2024-02-13,2024,February,Winter,09:15,11:07,112,Major Delay,Track inspection,7,703,Mail
+JRN1921,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2023-07-09,2023,July,Monsoon,19:45,20:05,20,Minor Delay,Flood affected route,8,877,Superfast
+JRN1922,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2022-06-07,2022,June,Monsoon,16:30,18:23,113,Major Delay,Heavy rainfall on track,8,632,Superfast
+JRN1923,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2023-01-26,2023,January,Winter,15:00,15:27,27,Minor Delay,Technical snag,3,774,Superfast
+JRN1924,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2022-05-24,2022,May,Summer,13:00,13:00,0,On Time,No Delay,4,821,Superfast
+JRN1925,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2024-12-13,2024,December,Winter,15:45,15:52,7,Minor Delay,Cold wave speed restriction,6,774,Superfast
+JRN1926,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2024-06-02,2024,June,Monsoon,06:30,07:43,73,Major Delay,Heavy rainfall on track,3,620,Express
+JRN1927,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-05-26,2024,May,Summer,13:00,13:45,45,Moderate Delay,Engine technical issue,6,915,Superfast
+JRN1928,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2023-08-07,2023,August,Monsoon,21:00,21:00,0,On Time,No Delay,7,608,Mail
+JRN1929,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2023-08-04,2023,August,Monsoon,07:45,08:32,47,Moderate Delay,Heavy rainfall on track,4,736,Superfast
+JRN1930,12051,Jan Shatabdi,Chennai Central,Coimbatore,Southern,496,2023-12-08,2023,December,Winter,08:30,08:32,2,Minor Delay,Technical snag,7,830,Superfast
+JRN1931,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2023-05-15,2023,May,Summer,23:15,00:22,67,Major Delay,Congestion at junction,1,623,Superfast
+JRN1932,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2023-04-13,2023,April,Summer,15:00,16:03,63,Major Delay,Late running connecting train,6,566,Superfast
+JRN1933,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2024-07-27,2024,July,Monsoon,20:15,21:59,104,Major Delay,Track waterlogging,2,792,Superfast
+JRN1934,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2022-07-28,2022,July,Monsoon,18:30,21:09,159,Severe Delay,Heavy rainfall on track,3,594,Superfast
+JRN1935,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2022-02-18,2022,February,Winter,15:15,15:46,31,Moderate Delay,Cold wave speed restriction,7,726,Superfast
+JRN1936,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2023-02-16,2023,February,Winter,14:00,14:20,20,Minor Delay,Track inspection,2,753,Express
+JRN1937,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2022-12-07,2022,December,Winter,18:15,18:15,0,On Time,No Delay,5,565,Express
+JRN1938,12311,Howrah Mail,Howrah,New Delhi,Eastern,1442,2023-07-08,2023,July,Monsoon,05:15,07:24,129,Severe Delay,Signal failure due to rain,4,779,Mail
+JRN1939,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2023-10-13,2023,October,Winter,23:45,00:01,16,Minor Delay,Cold wave speed restriction,2,557,Express
+JRN1940,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2024-03-16,2024,March,Summer,08:00,09:31,91,Major Delay,Late running connecting train,7,811,Superfast
+JRN1941,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2023-03-13,2023,March,Summer,11:30,12:24,54,Moderate Delay,Signal failure,1,802,Superfast
+JRN1942,12953,August Kranti,Mumbai Central,New Delhi,Western,1384,2022-10-10,2022,October,Winter,05:00,05:26,26,Minor Delay,Track inspection,3,877,Superfast
+JRN1943,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-12-13,2022,December,Winter,17:15,17:31,16,Minor Delay,Cold wave speed restriction,2,849,Superfast
+JRN1944,12009,Shatabdi Express,New Delhi,Chandigarh,Northern,248,2023-01-03,2023,January,Winter,20:00,20:04,4,Minor Delay,Late running due to fog,1,915,Superfast
+JRN1945,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2022-05-20,2022,May,Summer,09:15,09:15,0,On Time,No Delay,1,604,Superfast
+JRN1946,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2022-03-04,2022,March,Summer,21:15,22:37,82,Major Delay,Congestion at junction,7,533,Express
+JRN1947,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2023-08-09,2023,August,Monsoon,09:00,09:00,0,On Time,No Delay,7,717,Superfast
+JRN1948,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-12-06,2024,December,Winter,17:30,17:30,0,On Time,No Delay,7,689,Superfast
+JRN1949,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2024-06-12,2024,June,Monsoon,04:15,06:31,136,Severe Delay,Track waterlogging,8,549,Express
+JRN1950,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2022-04-20,2022,April,Summer,14:30,15:24,54,Moderate Delay,Signal failure,6,887,Superfast
+JRN1951,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2022-05-11,2022,May,Summer,11:45,12:42,57,Moderate Delay,Signal failure,1,726,Superfast
+JRN1952,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2022-07-07,2022,July,Monsoon,10:30,13:43,193,Severe Delay,Signal failure due to rain,3,755,Superfast
+JRN1953,11057,Navjeevan Express,Ahmedabad,Chennai Central,Western,1901,2023-05-19,2023,May,Summer,16:45,18:15,90,Major Delay,Late running connecting train,1,785,Express
+JRN1954,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2022-03-07,2022,March,Summer,14:30,15:23,53,Moderate Delay,Late running connecting train,4,783,Superfast
+JRN1955,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2023-03-03,2023,March,Summer,10:00,10:28,28,Minor Delay,Signal failure,5,549,Express
+JRN1956,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-06-13,2024,June,Monsoon,19:15,21:43,148,Severe Delay,Landslide near track,5,736,Superfast
+JRN1957,12203,Garib Rath,New Delhi,Patna Jn,Eastern,1001,2023-11-23,2023,November,Winter,04:45,05:00,15,Minor Delay,Dense fog signal restriction,3,525,Express
+JRN1958,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2023-05-13,2023,May,Summer,04:30,05:00,30,Minor Delay,Engine technical issue,1,730,Express
+JRN1959,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2022-05-21,2022,May,Summer,14:00,15:32,92,Major Delay,Engine technical issue,4,736,Superfast
+JRN1960,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2023-12-10,2023,December,Winter,15:45,16:47,62,Major Delay,Late running due to fog,1,944,Superfast
+JRN1961,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2023-11-22,2023,November,Winter,08:30,08:56,26,Minor Delay,Track inspection,5,594,Superfast
+JRN1962,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2024-04-17,2024,April,Summer,13:15,14:08,53,Moderate Delay,Late running connecting train,4,660,Superfast
+JRN1963,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2022-08-22,2022,August,Monsoon,05:45,06:42,57,Moderate Delay,Track waterlogging,4,518,Express
+JRN1964,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2022-07-20,2022,July,Monsoon,08:30,10:45,135,Severe Delay,Landslide near track,7,541,Express
+JRN1965,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2022-08-03,2022,August,Monsoon,10:30,12:57,147,Severe Delay,Heavy rainfall on track,2,706,Express
+JRN1966,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2022-04-22,2022,April,Summer,07:15,07:25,10,Minor Delay,Track maintenance,8,726,Superfast
+JRN1967,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-08-01,2022,August,Monsoon,22:30,22:30,0,On Time,No Delay,3,944,Superfast
+JRN1968,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2022-09-23,2022,September,Monsoon,10:45,13:41,176,Severe Delay,Landslide near track,1,915,Superfast
+JRN1969,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2022-08-15,2022,August,Monsoon,10:15,11:40,85,Major Delay,Flood affected route,7,868,Superfast
+JRN1970,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2022-03-05,2022,March,Summer,12:00,13:15,75,Major Delay,Engine technical issue,4,764,Superfast
+JRN1971,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2023-05-09,2023,May,Summer,20:00,20:36,36,Moderate Delay,Engine technical issue,2,541,Express
+JRN1972,22501,Humsafar Express,New Delhi,Lucknow,Northern,512,2022-11-06,2022,November,Winter,06:15,07:07,52,Moderate Delay,Cold wave speed restriction,4,840,Superfast
+JRN1973,12859,Gitanjali Express,Mumbai CST,Howrah,Central,1968,2022-08-14,2022,August,Monsoon,18:45,21:17,152,Severe Delay,Flood affected route,7,594,Superfast
+JRN1974,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2023-03-03,2023,March,Summer,09:00,09:00,0,On Time,No Delay,7,566,Superfast
+JRN1975,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2022-06-20,2022,June,Monsoon,09:00,11:29,149,Severe Delay,Landslide near track,7,934,Superfast
+JRN1976,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2023-10-07,2023,October,Winter,05:30,05:47,17,Minor Delay,Track inspection,7,682,Express
+JRN1977,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2024-05-11,2024,May,Summer,12:45,13:50,65,Major Delay,Late running connecting train,5,745,Superfast
+JRN1978,12649,Sampark Kranti,KSR Bangalore,New Delhi,South Western,2444,2023-04-06,2023,April,Summer,11:00,11:00,0,On Time,No Delay,8,726,Superfast
+JRN1979,12245,Duronto Express,Mumbai CST,Howrah,Western,1968,2024-06-14,2024,June,Monsoon,08:45,10:36,111,Major Delay,Landslide near track,7,651,Superfast
+JRN1980,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2024-01-25,2024,January,Winter,22:15,22:15,0,On Time,No Delay,7,635,Express
+JRN1981,10103,Mangala Express,Mumbai CST,Mangalore Central,Konkan,910,2022-03-03,2022,March,Summer,21:15,21:34,19,Minor Delay,Congestion at junction,2,675,Express
+JRN1982,12007,Mysore Express,Chennai Central,Mysore Jn,Southern,497,2022-08-01,2022,August,Monsoon,04:45,05:41,56,Moderate Delay,Track waterlogging,1,510,Express
+JRN1983,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2024-06-19,2024,June,Monsoon,20:00,21:49,109,Major Delay,Flood affected route,8,783,Superfast
+JRN1984,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2023-03-26,2023,March,Summer,16:00,16:00,0,On Time,No Delay,7,868,Superfast
+JRN1985,12621,Tamil Nadu Express,New Delhi,Chennai Central,Southern,2175,2023-08-16,2023,August,Monsoon,23:30,01:56,146,Severe Delay,Signal failure due to rain,5,915,Superfast
+JRN1986,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2024-04-21,2024,April,Summer,11:30,12:45,75,Major Delay,Congestion at junction,3,478,Express
+JRN1987,22119,Tejas Express,Mumbai Central,Ahmedabad,Western,491,2022-04-08,2022,April,Summer,16:00,16:45,45,Moderate Delay,Late running connecting train,4,925,Superfast
+JRN1988,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2023-02-07,2023,February,Winter,14:30,15:04,34,Moderate Delay,Cold wave speed restriction,4,510,Express
+JRN1989,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2022-07-24,2022,July,Monsoon,15:00,16:27,87,Major Delay,Signal failure due to rain,4,785,Express
+JRN1990,12007,Intercity Express,KSR Bangalore,Mysore Jn,South Western,139,2022-11-18,2022,November,Winter,22:00,22:29,29,Minor Delay,Late running due to fog,2,541,Express
+JRN1991,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2022-05-13,2022,May,Summer,12:00,12:25,25,Minor Delay,Congestion at junction,4,774,Superfast
+JRN1992,22435,Vande Bharat,New Delhi,Varanasi Jn,Northern,821,2023-04-01,2023,April,Summer,14:00,15:19,79,Major Delay,Congestion at junction,5,764,Superfast
+JRN1993,12841,Coromandel Express,Howrah,Chennai Central,Eastern,1663,2023-12-15,2023,December,Winter,12:45,13:30,45,Moderate Delay,Technical snag,3,859,Superfast
+JRN1994,10101,Konkan Railway,Mumbai CST,Mangalore Central,Konkan,910,2022-08-06,2022,August,Monsoon,09:00,10:58,118,Major Delay,Landslide near track,1,510,Express
+JRN1995,12303,Poorva Express,Howrah,New Delhi,Eastern,1531,2022-05-15,2022,May,Summer,20:30,20:30,0,On Time,No Delay,5,613,Superfast
+JRN1996,12903,Golden Temple Mail,Mumbai Central,Amritsar Jn,Northern,1930,2022-04-15,2022,April,Summer,14:45,16:19,94,Major Delay,Signal failure,7,912,Mail
+JRN1997,18409,Nandan Kanan Express,Howrah,Puri,Eastern,501,2024-09-09,2024,September,Monsoon,07:00,07:55,55,Moderate Delay,Flood affected route,4,643,Express
+JRN1998,12625,Kerala Express,New Delhi,Trivandrum Central,Southern,3054,2022-12-02,2022,December,Winter,08:45,09:07,22,Minor Delay,Late running due to fog,1,737,Express
+JRN1999,12301,Rajdhani Express,New Delhi,Mumbai Central,Northern,1384,2023-03-19,2023,March,Summer,17:30,17:30,0,On Time,No Delay,6,594,Superfast
